@@ -1,0 +1,1315 @@
+2021/01/06 17:12:38 main.go:12: test
+2021/01/06 18:38:15 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 18:38:15 bitflyer.go:32: 1609925895
+2021/01/06 18:38:17 bitflyer.go:95: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 18:38:17 bitflyer.go:104: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 18:48:55 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 18:48:55 bitflyer.go:32: 1609926535
+2021/01/06 18:48:55 bitflyer.go:95: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 18:48:55 bitflyer.go:104: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 18:55:32 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/06 18:55:32 bitflyer.go:98: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/06 18:56:45 bitflyer.go:58: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 18:56:46 bitflyer.go:96: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 18:56:46 bitflyer.go:105: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 18:57:39 bitflyer.go:59: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 18:57:39 bitflyer.go:32: 1609927059
+2021/01/06 18:57:40 bitflyer.go:97: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 18:57:40 bitflyer.go:106: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 19:01:05 bitflyer.go:59: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 19:01:05 bitflyer.go:32: 1609927265
+2021/01/06 19:01:05 bitflyer.go:97: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 19:01:05 bitflyer.go:106: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 19:02:07 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 19:02:07 bitflyer.go:95: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 19:02:07 bitflyer.go:104: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 19:02:42 bitflyer.go:59: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 19:02:42 bitflyer.go:97: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 19:02:42 bitflyer.go:106: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 19:03:28 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/06 19:03:28 bitflyer.go:32: 1609927408
+2021/01/06 19:03:29 bitflyer.go:95: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/06 19:04:36 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/me/getbalance
+2021/01/06 19:04:36 bitflyer.go:32: 1609927476
+2021/01/06 19:04:36 bitflyer.go:95: url=me/getbalance resp=
+
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+     
+<!-- Google Tag Manager -->
+<script>
+(function (w, d, s, l, i) {
+                    w[l] = w[l] || []; w[l].push({
+                        'gtm.start':
+new Date().getTime(), event: 'gtm.js'
+}); var f = d.getElementsByTagName(s)[0],
+j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src =
+'https://www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f);
+})(window, document, 'script', 'dataLayer', 'GTM-TWV92L');</script>
+<!-- End Google Tag Manager -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/Content/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/Content/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/Content/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/Content/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/Content/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/Content/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/Content/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/Content/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/Content/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/Content/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/Content/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/Content/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/Content/favicon-16x16.png">
+    <link rel="manifest" href="/Content/manifest.json">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="msapplication-TileImage" content="/Content/ms-icon-144x144.png">
+    <meta name="theme-color" content="#ffffff">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>bitFlyer Lightning ビットコイン取引所</title>
+    <link href="/Content/default?v=QVEnu8KRbNG1tdKXZ53bvS-lsS93r4_ZbMKc4CySxWM1" rel="stylesheet"/>
+
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-64393818-1', 'auto');
+ga('send', 'pageview');
+</script>
+</head>
+<body class="404">
+     
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+        <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TWV92L"
+                height="0" width="0" style="display:none;visibility:hidden"></iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+
+    <div class="top-bar">
+        <div class="top-bar__ticker" style="line-height:50px;">
+            <span style="line-height:50px;">
+                <img src="/Content/LightningLogo.png" class="logo" alt="Lightning Bitcoin Exchange by bitFlyer">
+            </span>
+        </div>
+    </div>
+    <main>
+        <section style="text-align: center; margin-top: 100px;">
+            <h1>NOT FOUND</h1>
+            <ul>
+                <li><a href="/">Back to Home</a></li>
+                <li><a href="https://bitflyer.com/">bitFlyer</a></li>
+            </ul>
+        </section>
+    </main>
+</body>
+</html>
+2021/01/06 19:04:36 bitflyer.go:104: action=GetBalance err=invalid character '<' looking for beginning of value
+2021/01/06 19:05:09 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/06 19:05:09 bitflyer.go:32: 1609927509
+2021/01/06 19:05:09 bitflyer.go:95: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/06 20:15:04 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/06 20:15:43 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/06 20:15:44 bitflyer.go:136: action=DateTime, err=parsing time "2021-01-06T11:15:43.687" as "2006-01-02T15:04:05Z07:00": cannot parse "" as "Z07:00"
+2021/01/06 20:15:44 bitflyer.go:136: action=DateTime, err=parsing time "2021-01-06T11:15:43.687" as "2006-01-02T15:04:05Z07:00": cannot parse "" as "Z07:00"
+2021/01/06 20:18:21 bitflyer.go:57: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/07 02:12:55 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/07 02:12:56 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 02:17:23 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/07 02:17:23 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 02:21:00 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/07 02:24:41 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 02:36:49 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 02:53:34 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 02:56:31 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 03:04:19 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 03:22:37 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/07 03:30:27 bitflyer.go:181: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/09 20:35:45 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/09 20:35:46 bitflyer.go:98: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/09 20:35:46 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/09 20:41:54 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/09 20:41:54 bitflyer.go:98: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/09 20:41:54 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/10 02:29:34 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/10 02:29:34 bitflyer.go:99: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/10 02:29:34 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/11 11:51:10 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/11 11:51:11 bitflyer.go:99: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/11 11:51:11 bitflyer.go:186: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 11:51:11 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:11.512782Z 11696147 3.783924e+06 3.785738e+06 0.154 0.16 903.17751496 822.46949076 0 0 3.783157e+06 13872.02695885 13872.02695885}
+2021/01/11 11:51:12 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:12.0140722Z 11696171 3.783925e+06 3.785374e+06 0.1432 0.02 903.16653496 822.04799076 0 0 3.785374e+06 13872.03695885 13872.03695885}
+2021/01/11 11:51:12 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:12.5505096Z 11696189 3.784113e+06 3.785687e+06 0.038 0.21 903.82439236 820.82529076 0 0 3.785374e+06 13872.05695885 13872.05695885}
+2021/01/11 11:51:13 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:13.171177Z 11696207 3.783316e+06 3.785685e+06 0.05 0.03 916.35889236 822.32388076 0 0 3.785374e+06 13872.05695885 13872.05695885}
+2021/01/11 11:51:13 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:13.8030895Z 11696236 3.783262e+06 3.785303e+06 0.0952 0.175 917.73509236 822.22308076 0 0 3.785374e+06 13871.95695885 13871.95695885}
+2021/01/11 11:51:14 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:14.329057Z 11696257 3.784103e+06 3.786549e+06 0.196 0.0046 918.02022378 822.01999076 0 0 3.785687e+06 13872.40195885 13872.40195885}
+2021/01/11 11:51:14 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:14.8625346Z 11696276 3.784462e+06 3.786549e+06 0.106 0.0046 915.79952005 821.30084266 0 0 3.784103e+06 13872.58595885 13872.58595885}
+2021/01/11 11:51:15 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:15.4488034Z 11696294 3.784462e+06 3.787372e+06 0.106 0.008 917.52257599 821.86218312 0 0 3.784103e+06 13872.58595885 13872.58595885}
+2021/01/11 11:51:16 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:16.0114041Z 11696314 3.783264e+06 3.785489e+06 0.03 0.206 917.40909599 823.35918312 0 0 3.783195e+06 13873.08595885 13873.08595885}
+2021/01/11 11:51:16 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:16.4442705Z 11696323 3.783264e+06 3.785489e+06 0.03 0.206 917.35067599 823.84807312 0 0 3.783195e+06 13873.08595885 13873.08595885}
+2021/01/11 11:51:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:17.1130871Z 11696335 3.782343e+06 3.785488e+06 0.186 0.1776 917.35507599 823.90007312 0 0 3.783195e+06 13873.08595885 13873.08595885}
+2021/01/11 11:51:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:17.620208Z 11696348 3.782162e+06 3.78458e+06 0.01 0.2 915.08992127 823.56914312 0 0 3.783195e+06 13873.08595885 13873.08595885}
+2021/01/11 11:51:18 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:18.3500341Z 11696371 3.7817e+06 3.785482e+06 0.202 0.019 917.56491821 822.99554312 0 0 3.782162e+06 13873.09595885 13873.09595885}
+2021/01/11 11:51:19 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:18.9491601Z 11696389 3.782529e+06 3.785e+06 0.198 0.07 917.77251821 823.86594312 0 0 3.782162e+06 13873.09595885 13873.09595885}
+2021/01/11 11:51:19 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:19.538978Z 11696404 3.7817e+06 3.785e+06 0.252 0.07 917.43651821 824.09574312 0 0 3.782162e+06 13873.09595885 13873.09595885}
+2021/01/11 11:51:20 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:20.0389977Z 11696412 3.78456e+06 3.784973e+06 0.6 0.3 918.03651821 824.39574312 0 0 3.782162e+06 13873.09595885 13873.09595885}
+2021/01/11 11:51:21 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:20.8971404Z 11696429 3.7817e+06 3.784438e+06 0.252 0.019 917.54395821 824.85884312 0 0 3.78456e+06 13873.69595885 13873.69595885}
+2021/01/11 11:51:21 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:21.4570052Z 11696462 3.781555e+06 3.784437e+06 0.11 0.1815 917.12962699 825.62277312 0 0 3.7817e+06 13873.77595885 13873.77595885}
+2021/01/11 11:51:22 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:21.973773Z 11696487 3.781555e+06 3.783082e+06 0.11 0.206 917.49357873 826.00687312 0 0 3.783528e+06 13873.78595885 13873.78595885}
+2021/01/11 11:51:22 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:22.5485547Z 11696512 3.781555e+06 3.783082e+06 0.11 0.206 917.41157873 824.66000312 0 0 3.783528e+06 13873.78595885 13873.78595885}
+2021/01/11 11:51:23 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:23.0642006Z 11696520 3.781555e+06 3.783081e+06 0.11 0.1815 917.53357873 824.83000312 0 0 3.783528e+06 13873.78595885 13873.78595885}
+2021/01/11 11:51:23 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:23.5743586Z 11696531 3.781555e+06 3.783157e+06 0.11 0.17 917.81765873 825.12387312 0 0 3.783528e+06 13873.78595885 13873.78595885}
+2021/01/11 11:51:24 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:24.1809102Z 11696559 3.782043e+06 3.784437e+06 0.204 0.014 918.92442699 821.47297312 0 0 3.783515e+06 13873.95985885 13873.95985885}
+2021/01/11 11:51:24 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:24.8093872Z 11696591 3.783796e+06 3.787139e+06 0.05 0.194 918.46905169 819.27297312 0 0 3.784437e+06 13873.96785885 13873.96785885}
+2021/01/11 11:51:25 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T02:51:25.43504Z 11696606 3.783796e+06 3.787139e+06 0.05 0.194 918.11516888 819.65877312 0 0 3.784437e+06 13873.96785885 13873.96785885}
+2021/01/11 13:19:49 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/11 13:19:50 bitflyer.go:99: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/11 13:19:50 bitflyer.go:186: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 13:19:50 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:50.5551526Z 11898196 3.694068e+06 3.69572e+06 0.192 0.20373544 793.26126895 799.52625479 0 0 3.6966e+06 16413.83385829 16413.83385829}
+2021/01/11 13:19:51 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:51.0395991Z 11898211 3.694068e+06 3.69572e+06 0.192 0.06514895 806.54146895 799.5266683 0 0 3.69572e+06 16414.03485829 16414.03485829}
+2021/01/11 13:19:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:51.8625854Z 11898265 3.693689e+06 3.694068e+06 0.2 0.15 806.26260226 801.39297351 0 0 3.6955e+06 16414.05485829 16414.05485829}
+2021/01/11 13:19:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:52.311083Z 11898291 3.69282e+06 3.69602e+06 0.196 0.196 806.16743672 801.16689307 0 0 3.694068e+06 16414.34684829 16414.34684829}
+2021/01/11 13:19:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:52.8627178Z 11898307 3.692821e+06 3.69602e+06 0.85 0.073999 806.95073672 801.68339207 0 0 3.69602e+06 16414.72684929 16414.72684929}
+2021/01/11 13:19:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:53.6295802Z 11898327 3.694132e+06 3.695577e+06 0.001 0.17 808.67463672 801.99209207 0 0 3.69602e+06 16414.72684929 16414.72684929}
+2021/01/11 13:19:54 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:54.1608579Z 11898343 3.692824e+06 3.695577e+06 0.03 0.22 807.43023672 806.01949207 0 0 3.694068e+06 16414.82784929 16414.82784929}
+2021/01/11 13:19:54 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:54.5516448Z 11898351 3.691967e+06 3.695488e+06 0.204 0.75 807.62423672 806.97809207 0 0 3.694068e+06 16414.82784929 16414.82784929}
+2021/01/11 13:19:55 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:55.2990274Z 11898395 3.692786e+06 3.69602e+06 0.05 0.1 809.04583672 805.58529307 0 0 3.696283e+06 16414.83785029 16414.83785029}
+2021/01/11 13:19:56 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:56.1151697Z 11898432 3.69115e+06 3.697653e+06 0.668179 0.192 805.04783672 805.60239307 0 0 3.697404e+06 16416.42045029 16416.42045029}
+2021/01/11 13:19:56 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:56.5392628Z 11898455 3.695285e+06 3.695358e+06 0.001 0.299 806.79853672 806.01071307 0 0 3.697404e+06 16416.42045029 16416.42045029}
+2021/01/11 13:19:57 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:57.134251Z 11898478 3.692845e+06 3.696233e+06 0.01 0.05 804.19703672 805.36691307 0 0 3.695358e+06 16416.72045029 16416.72045029}
+2021/01/11 13:19:57 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:57.7631643Z 11898495 3.69572e+06 3.69679e+06 0.01 0.175 805.25103672 805.40691307 0 0 3.695358e+06 16416.72045029 16416.72045029}
+2021/01/11 13:19:58 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:58.3499729Z 11898527 3.694299e+06 3.698378e+06 0.204 0.06078316 805.17422146 805.37817623 0 0 3.698378e+06 16416.93286713 16416.93286713}
+2021/01/11 13:19:59 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:59.0240109Z 11898546 3.695222e+06 3.698377e+06 0.43 0.061 805.12344246 801.76717623 0 0 3.695222e+06 16417.20286713 16417.20286713}
+2021/01/11 13:19:59 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:19:59.472433Z 11898562 3.695225e+06 3.698009e+06 0.03 0.134 804.78770246 802.07359623 0 0 3.698377e+06 16417.20824713 16417.20824713}
+2021/01/11 13:20:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:00.0907759Z 11898578 3.695058e+06 3.698009e+06 0.196 0.134 804.78770246 803.32247623 0 0 3.698377e+06 16417.20824713 16417.20824713}
+2021/01/11 13:20:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:00.5786227Z 11898600 3.698009e+06 3.698258e+06 0.067 0.75 805.26415007 802.49359307 0 0 3.697e+06 16417.33164713 16417.33164713}
+2021/01/11 13:20:01 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:01.3354612Z 11898630 3.698075e+06 3.698258e+06 0.067 0.67572968 805.41328664 801.58535303 0 0 3.698258e+06 16417.40591745 16417.40591745}
+2021/01/11 13:20:02 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:01.9327592Z 11898655 3.69919e+06 3.699998e+06 0.2 0.5 805.67307664 800.75763572 0 0 3.698258e+06 16418.08164713 16418.08164713}
+2021/01/11 13:20:02 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:02.5459643Z 11898679 3.700001e+06 3.701835e+06 0.0629375 0.1 805.72448664 804.57215572 0 0 3.7e+06 16418.68264713 16418.68264713}
+2021/01/11 13:20:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:03.1323595Z 11898702 3.700562e+06 3.701835e+06 0.2 0.1 806.36308664 803.91517859 0 0 3.7e+06 16418.68264713 16418.68264713}
+2021/01/11 13:20:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:03.5737144Z 11898726 3.700562e+06 3.701784e+06 0.2 0.07 805.72667664 803.95921146 0 0 3.7e+06 16418.68264713 16418.68264713}
+2021/01/11 13:20:04 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:04.3035498Z 11898755 3.700563e+06 3.702192e+06 0.1022 0.00546875 806.66887664 804.07531265 0 0 3.702192e+06 16419.22217838 16419.22217838}
+2021/01/11 13:20:05 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:04.5414201Z 11898772 3.700562e+06 3.702554e+06 0.2 0.13 806.09167664 800.63185967 0 0 3.702192e+06 16419.22764713 16419.22764713}
+2021/01/11 13:20:05 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:05.3967764Z 11898804 3.701923e+06 3.704101e+06 0.2 0.04 806.24158664 800.38847967 0 0 3.704101e+06 16418.50764713 16418.50764713}
+2021/01/11 13:20:06 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:05.9147272Z 11898823 3.701934e+06 3.704161e+06 0.07 0.1795 806.56419664 800.46297967 0 0 3.704161e+06 16418.55764713 16418.55764713}
+2021/01/11 13:20:06 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:06.4811856Z 11898830 3.701935e+06 3.704162e+06 0.65 0.0575 807.21419664 800.37515967 0 0 3.704161e+06 16418.55764713 16418.55764713}
+2021/01/11 13:20:07 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:07.0137542Z 11898856 3.702762e+06 3.704756e+06 0.198 0.2282 806.66919664 800.04645967 0 0 3.704161e+06 16418.55764713 16418.55764713}
+2021/01/11 13:20:07 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:07.766823Z 11898873 3.701935e+06 3.70522e+06 0.1011 0.38 806.57229664 799.76878585 0 0 3.702762e+06 16418.75564713 16418.75564713}
+2021/01/11 13:20:08 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:08.2742427Z 11898895 3.702629e+06 3.705218e+06 0.05 0.85 807.11879664 801.28968585 0 0 3.701934e+06 16418.90264713 16418.90264713}
+2021/01/11 13:20:09 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:09.3384117Z 11898901 3.702792e+06 3.705218e+06 0.204 0.85 807.27199664 801.81148585 0 0 3.701934e+06 16418.90264713 16418.90264713}
+2021/01/11 13:20:09 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:09.6405969Z 11898923 3.704161e+06 3.70522e+06 0.1 0.38 806.23478664 799.42675585 0 0 3.702792e+06 16418.90564713 16418.90564713}
+2021/01/11 13:20:13 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:13.405484Z 11898927 3.702792e+06 3.70522e+06 0.251 0.38 805.98078664 799.42675585 0 0 3.704161e+06 16419.00564713 16419.00564713}
+2021/01/11 13:20:14 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:14.1264849Z 11898943 3.701996e+06 3.704101e+06 0.131 0.1 805.74878664 799.69267841 0 0 3.701996e+06 16419.51564713 16419.51564713}
+2021/01/11 13:20:15 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:14.8987837Z 11898961 3.702231e+06 3.704101e+06 0.05 0.1 805.57378664 800.35225841 0 0 3.701996e+06 16419.51564713 16419.51564713}
+2021/01/11 13:20:15 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:15.4546739Z 11898991 3.701934e+06 3.704101e+06 0.2 0.1 802.97898664 801.98342841 0 0 3.701996e+06 16419.51564713 16419.51564713}
+2021/01/11 13:20:16 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:16.4066663Z 11899009 3.701934e+06 3.702792e+06 0.16 0.21484375 802.93898664 806.19227216 0 0 3.701934e+06 16419.55564713 16419.55564713}
+2021/01/11 13:20:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:17.0196096Z 11899035 3.701934e+06 3.702792e+06 0.16 0.19484375 803.16156269 802.3268703 0 0 3.702792e+06 16419.57564713 16419.57564713}
+2021/01/11 13:20:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:17.6996808Z 11899051 3.7e+06 3.702792e+06 0.02 0.19484375 803.10356269 802.2664703 0 0 3.701934e+06 16419.73564713 16419.73564713}
+2021/01/11 13:20:18 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:18.2337952Z 11899060 3.7e+06 3.702792e+06 0.02 0.19484375 803.06698664 803.22782193 0 0 3.701934e+06 16419.73564713 16419.73564713}
+2021/01/11 13:20:18 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:18.7872757Z 11899081 3.7e+06 3.701934e+06 0.02 0.3 802.98798664 803.09260726 0 0 3.701934e+06 16419.73564713 16419.73564713}
+2021/01/11 13:20:19 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:19.3364114Z 11899101 3.7e+06 3.700084e+06 0.02 0.2 803.01605664 802.95036585 0 0 3.701934e+06 16419.73564713 16419.73564713}
+2021/01/11 13:20:20 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:19.9666583Z 11899119 3.696931e+06 3.700084e+06 0.059 0.2 802.90898664 802.84046585 0 0 3.696931e+06 16419.83864713 16419.83864713}
+2021/01/11 13:20:20 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:20.542421Z 11899157 3.696257e+06 3.6968e+06 0.05 0.44815625 802.42739364 805.6736221 0 0 3.695358e+06 16420.26864013 16420.26864013}
+2021/01/11 13:20:21 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:21.0424765Z 11899187 3.696257e+06 3.6963e+06 0.040001 0.04 802.99159464 805.18127645 0 0 3.696337e+06 16420.47348288 16420.47348288}
+2021/01/11 13:20:21 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:21.5681644Z 11899201 3.696257e+06 3.6968e+06 0.040001 0.43815625 803.37959464 805.95973903 0 0 3.6968e+06 16420.52348288 16420.52348288}
+2021/01/11 13:20:22 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:22.1899491Z 11899213 3.696257e+06 3.6968e+06 0.040001 0.09815625 803.51959464 804.43033903 0 0 3.6968e+06 16420.86348288 16420.86348288}
+2021/01/11 13:20:23 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:22.688277Z 11899254 3.697216e+06 3.698149e+06 0.2 0.0051 805.17293961 803.82280278 0 0 3.6968e+06 16420.92948288 16420.92948288}
+2021/01/11 13:20:23 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:23.6479252Z 11899261 3.698073e+06 3.698149e+06 0.2 0.0051 805.47293961 803.68648278 0 0 3.6968e+06 16420.92948288 16420.92948288}
+2021/01/11 13:20:24 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:24.1485552Z 11899287 3.696799e+06 3.699811e+06 0.194 0.03 803.41071364 803.8046202 0 0 3.697216e+06 16421.32948288 16421.32948288}
+2021/01/11 13:20:24 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:24.7162735Z 11899327 3.696026e+06 3.698704e+06 0.098 0.05 803.48159364 806.55113332 0 0 3.698073e+06 16421.52348288 16421.52348288}
+2021/01/11 13:20:25 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:25.3919885Z 11899339 3.695358e+06 3.698518e+06 0.049007 0.3 803.31907364 807.02567332 0 0 3.695358e+06 16421.64348288 16421.64348288}
+2021/01/11 13:20:26 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:25.8942584Z 11899361 3.695358e+06 3.698196e+06 0.049007 0.2 803.41769364 808.51387332 0 0 3.695358e+06 16421.64348288 16421.64348288}
+2021/01/11 13:20:26 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:26.4847228Z 11899377 3.695358e+06 3.698195e+06 0.049007 0.2147 804.98051524 808.19370268 0 0 3.695358e+06 16421.64348288 16421.64348288}
+2021/01/11 13:20:27 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:27.0643856Z 11899406 3.695358e+06 3.698192e+06 0.049007 0.06 803.71981524 812.18222095 0 0 3.698195e+06 16421.65348288 16421.65348288}
+2021/01/11 13:20:27 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:27.5461281Z 11899419 3.695358e+06 3.698142e+06 0.049007 0.1 803.77811524 812.01752095 0 0 3.698195e+06 16421.65348288 16421.65348288}
+2021/01/11 13:20:28 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:28.1243657Z 11899440 3.695358e+06 3.697373e+06 0.049007 0.192 803.62860526 811.68109159 0 0 3.698195e+06 16421.65348288 16421.65348288}
+2021/01/11 13:20:28 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:28.8334427Z 11899464 3.695e+06 3.69727e+06 0.11 0.3 803.53256158 812.22529159 0 0 3.695358e+06 16421.70248988 16421.70248988}
+2021/01/11 13:20:29 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:29.3637071Z 11899491 3.694499e+06 3.696575e+06 0.001 0.198 803.32911158 811.85803055 0 0 3.695e+06 16421.81248988 16421.81248988}
+2021/01/11 13:20:30 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:30.1890513Z 11899530 3.692462e+06 3.695806e+06 0.202 0.2111 804.60683664 811.6967565 0 0 3.694499e+06 16421.81348988 16421.81348988}
+2021/01/11 13:20:30 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:30.6653413Z 11899561 3.692451e+06 3.695756e+06 0.192 0.05 802.66198664 811.6291565 0 0 3.69e+06 16424.10248988 16424.10248988}
+2021/01/11 13:20:31 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:31.2291681Z 11899579 3.69e+06 3.695003e+06 0.85364012 0.202 802.63758664 810.8539265 0 0 3.692451e+06 16424.16843244 16424.16843244}
+2021/01/11 13:20:32 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:31.8119854Z 11899601 3.691523e+06 3.695002e+06 0.05 0.217 800.93842619 811.4482597 0 0 3.69e+06 16424.66843244 16424.66843244}
+2021/01/11 13:20:37 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:37.4355119Z 11899615 3.690277e+06 3.695002e+06 0.3 0.216 801.23262619 810.5315597 0 0 3.695002e+06 16424.59943244 16424.59943244}
+2021/01/11 13:20:38 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:38.3300897Z 11899616 3.690277e+06 3.695002e+06 0.2912 0.216 801.22382619 810.5315597 0 0 3.690277e+06 16424.60823244 16424.60823244}
+2021/01/11 13:20:39 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:39.2111118Z 11899661 3.690828e+06 3.694875e+06 0.05 0.3 799.19440619 811.2414597 0 0 3.694499e+06 16424.86293244 16424.86293244}
+2021/01/11 13:20:40 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:39.8468232Z 11899694 3.691272e+06 3.694875e+06 0.75 0.14420649 798.83965619 809.43240307 0 0 3.694875e+06 16424.98872595 16424.98872595}
+2021/01/11 13:20:40 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:40.3254446Z 11899715 3.690828e+06 3.694999e+06 0.05 0.00820649 798.08565619 809.61137551 0 0 3.694999e+06 16425.05633679 16425.05633679}
+2021/01/11 13:20:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:40.9085987Z 11899769 3.695002e+06 3.695359e+06 0.001 0.079998 797.55703798 808.41050269 0 0 3.695359e+06 16425.72084528 16425.72084528}
+2021/01/11 13:20:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:41.5087425Z 11899789 3.69e+06 3.695359e+06 0.26697012 0.059998 796.74633798 804.70633743 0 0 3.69e+06 16425.99084528 16425.99084528}
+2021/01/11 13:20:42 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:42.183163Z 11899815 3.690829e+06 3.697265e+06 0.2197 0.0686 800.24046664 800.37633943 0 0 3.697266e+06 16426.11084928 16426.11084928}
+2021/01/11 13:20:42 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:42.7207028Z 11899845 3.690828e+06 3.694872e+06 0.05 0.01 799.94886664 800.09948943 0 0 3.694872e+06 16426.16084928 16426.16084928}
+2021/01/11 13:20:43 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:43.364894Z 11899869 3.694875e+06 3.695735e+06 0.29 0.05 800.08584664 800.27748943 0 0 3.694872e+06 16426.17084928 16426.17084928}
+2021/01/11 13:20:44 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:43.8839497Z 11899881 3.694999e+06 3.697265e+06 0.175 0.023 800.28084664 800.85648943 0 0 3.694872e+06 16426.17084928 16426.17084928}
+2021/01/11 13:20:44 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:44.3819034Z 11899904 3.691273e+06 3.695358e+06 0.801 0.83 800.36842331 802.11573943 0 0 3.691273e+06 16426.29084928 16426.29084928}
+2021/01/11 13:20:45 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:44.9322185Z 11899921 3.695002e+06 3.695358e+06 0.01 0.83 800.46842331 804.82041647 0 0 3.691273e+06 16426.29084928 16426.29084928}
+2021/01/11 13:20:45 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:45.5714307Z 11899945 3.693096e+06 3.694523e+06 0.175 0.184 800.44754661 808.34401547 0 0 3.695e+06 16426.32085028 16426.32085028}
+2021/01/11 13:20:46 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:46.0089505Z 11899957 3.693096e+06 3.694229e+06 0.175 0.2 800.85854661 808.41001547 0 0 3.695e+06 16426.32085028 16426.32085028}
+2021/01/11 13:20:46 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:46.6701763Z 11899976 3.692799e+06 3.693619e+06 0.02 0.2 798.50198994 809.61656547 0 0 3.694229e+06 16426.35085028 16426.35085028}
+2021/01/11 13:20:47 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:47.25127Z 11900014 3.692799e+06 3.693619e+06 0.02 0.2 798.89498994 806.12018943 0 0 3.694229e+06 16426.35085028 16426.35085028}
+2021/01/11 13:20:48 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:47.9607253Z 11900035 3.691276e+06 3.693619e+06 0.03 0.2 799.59378994 806.86056059 0 0 3.694229e+06 16426.35085028 16426.35085028}
+2021/01/11 13:20:48 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:48.5152148Z 11900049 3.69001e+06 3.693619e+06 0.1 0.2 798.48517611 810.75694388 0 0 3.694229e+06 16426.35085028 16426.35085028}
+2021/01/11 13:20:49 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:49.0776973Z 11900086 3.690013e+06 3.691232e+06 0.03 0.03 799.44017611 806.53462272 0 0 3.69351e+06 16426.55085028 16426.55085028}
+2021/01/11 13:20:49 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:49.6149888Z 11900117 3.690013e+06 3.692381e+06 0.03 0.196 800.06798994 806.18693943 0 0 3.69351e+06 16426.55085028 16426.55085028}
+2021/01/11 13:20:50 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:50.1306502Z 11900136 3.69001e+06 3.692308e+06 0.1 0.175 799.75298994 806.49113943 0 0 3.69351e+06 16426.55085028 16426.55085028}
+2021/01/11 13:20:50 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:50.7110636Z 11900147 3.69001e+06 3.692308e+06 0.1 0.175 802.48423994 806.03703943 0 0 3.69351e+06 16426.55085028 16426.55085028}
+2021/01/11 13:20:51 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:51.2281333Z 11900164 3.69051e+06 3.692307e+06 0.001 1.12397116 802.30523994 807.16401059 0 0 3.692307e+06 16426.76085028 16426.76085028}
+2021/01/11 13:20:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:51.8302605Z 11900188 3.69051e+06 3.693508e+06 0.001 0.0545 803.05343128 805.54179943 0 0 3.692307e+06 16426.76085028 16426.76085028}
+2021/01/11 13:20:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:52.1766603Z 11900222 3.68e+06 3.692992e+06 0.96287061 0.202 801.03343128 806.06079943 0 0 3.68e+06 16428.76085028 16428.76085028}
+2021/01/11 13:20:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:52.9239374Z 11900246 3.68217e+06 3.689999e+06 0.00896 0.04432856 800.65439128 810.14734167 0 0 3.692306e+06 16428.77085028 16428.77085028}
+2021/01/11 13:20:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:53.5884121Z 11900270 3.688348e+06 3.689998e+06 0.05 0.029474 801.92879404 811.62101796 0 0 3.690521e+06 16428.84085028 16428.84085028}
+2021/01/11 13:20:54 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:54.1352922Z 11900290 3.689585e+06 3.690871e+06 0.02 0.194 799.75393128 811.73384396 0 0 3.690521e+06 16428.84085028 16428.84085028}
+2021/01/11 13:20:54 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:54.7355243Z 11900322 3.685815e+06 3.687104e+06 0.3 0.0047 799.10577262 812.17135246 0 0 3.690042e+06 16428.87085128 16428.87085128}
+2021/01/11 13:20:55 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:55.3473097Z 11900345 3.686215e+06 3.689863e+06 0.75 0.194 800.88946215 812.67945246 0 0 3.687104e+06 16428.87555128 16428.87555128}
+2021/01/11 13:20:56 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:55.8039294Z 11900376 3.68e+06 3.688817e+06 1.23287061 0.05 788.59763128 811.46923741 0 0 3.68617e+06 16428.88535128 16428.88535128}
+2021/01/11 13:20:56 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:56.3845231Z 11900404 3.683708e+06 3.687865e+06 0.75 0.1979 789.20773128 809.92543741 0 0 3.68617e+06 16428.88535128 16428.88535128}
+2021/01/11 13:20:57 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:56.9989106Z 11900420 3.684428e+06 3.687865e+06 0.3 0.2863 788.90973128 809.83883741 0 0 3.68617e+06 16428.84335128 16428.84335128}
+2021/01/11 13:20:57 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:57.6007642Z 11900456 3.682975e+06 3.685697e+06 0.3 0.206 789.51373128 809.86005311 0 0 3.68617e+06 16428.84335128 16428.84335128}
+2021/01/11 13:20:58 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:58.2425409Z 11900481 3.681809e+06 3.685697e+06 0.75 0.245999 798.74062128 809.06855211 0 0 3.685697e+06 16428.85335228 16428.85335228}
+2021/01/11 13:20:58 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:58.8254981Z 11900517 3.682375e+06 3.685696e+06 0.05 0.0269 800.32813128 798.50215211 0 0 3.685694e+06 16428.87135228 16428.87135228}
+2021/01/11 13:20:59 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:20:59.4664918Z 11900540 3.68234e+06 3.685693e+06 0.3 0.1979 800.5296197 808.65544946 0 0 3.685693e+06 16428.89135428 16428.89135428}
+2021/01/11 13:26:32 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/me/getbalance
+2021/01/11 13:26:32 bitflyer.go:99: url=me/getbalance resp=[{"currency_code":"JPY","amount":347.0,"available":347.000000000000},{"currency_code":"BTC","amount":0.0,"available":0.0},{"currency_code":"BCH","amount":0.0,"available":0.0},{"currency_code":"ETH","amount":0.0,"available":0.0},{"currency_code":"ETC","amount":0.0,"available":0.0},{"currency_code":"LTC","amount":0.0,"available":0.0},{"currency_code":"MONA","amount":0.0,"available":0.0},{"currency_code":"LSK","amount":0.0,"available":0.0},{"currency_code":"XRP","amount":0.0,"available":0.0},{"currency_code":"BAT","amount":0.0,"available":0.0},{"currency_code":"XLM","amount":0.0,"available":0.0},{"currency_code":"XEM","amount":0.0,"available":0.0},{"currency_code":"XTZ","amount":0.0,"available":0.0}]
+2021/01/11 13:26:32 bitflyer.go:186: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 13:26:33 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:33.1074729Z 11914037 3.60751e+06 3.611232e+06 0.2 0.08292679 764.36418194 800.20081558 0 0 3.611232e+06 16608.26059244 16608.26059244}
+2021/01/11 13:26:33 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:33.6098073Z 11914062 3.60751e+06 3.610984e+06 0.2 0.2 773.90755194 802.02561558 0 0 3.611231e+06 16608.31059244 16608.31059244}
+2021/01/11 13:26:34 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:34.1411189Z 11914075 3.607511e+06 3.610944e+06 0.0032 0.204 774.28175194 801.11791558 0 0 3.611228e+06 16608.31559244 16608.31559244}
+2021/01/11 13:26:34 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:34.6401579Z 11914096 3.607511e+06 3.610944e+06 0.0973 0.204 774.40062194 802.21991558 0 0 3.611228e+06 16608.31559244 16608.31559244}
+2021/01/11 13:26:35 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:35.3397807Z 11914111 3.607511e+06 3.61094e+06 0.0973 0.025 774.63162194 811.70630938 0 0 3.611228e+06 16608.31559244 16608.31559244}
+2021/01/11 13:26:36 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:35.8733293Z 11914140 3.607522e+06 3.611228e+06 0.07 0.05 774.56132194 809.5541637 0 0 3.610941e+06 16608.32459244 16608.32459244}
+2021/01/11 13:26:36 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:36.343987Z 11914165 3.605877e+06 3.609423e+06 0.0108 0.2 773.58295394 810.38732625 0 0 3.607522e+06 16608.39459244 16608.39459244}
+2021/01/11 13:26:37 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:37.1893074Z 11914199 3.605877e+06 3.607674e+06 0.0108 0.2 773.60026106 809.38567557 0 0 3.606508e+06 16608.59459244 16608.59459244}
+2021/01/11 13:26:38 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:37.8650378Z 11914236 3.606242e+06 3.610734e+06 0.192 0.124 774.15215106 807.67087878 0 0 3.60942e+06 16608.59659244 16608.59659244}
+2021/01/11 13:26:38 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:38.3906359Z 11914256 3.609766e+06 3.610941e+06 0.186 0.005 774.2937935 807.67310946 0 0 3.610941e+06 16608.62559344 16608.62559344}
+2021/01/11 13:26:39 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:39.0178317Z 11914284 3.606243e+06 3.609198e+06 0.0072 0.03 773.6226935 809.76967946 0 0 3.609766e+06 16608.81159344 16608.81159344}
+2021/01/11 13:26:39 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:39.4422044Z 11914292 3.606243e+06 3.609198e+06 0.0072 0.03 773.6026935 810.04897946 0 0 3.609766e+06 16608.81159344 16608.81159344}
+2021/01/11 13:26:40 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:40.1610182Z 11914324 3.604547e+06 3.604631e+06 0.03 0.19 773.5335035 810.30177946 0 0 3.605e+06 16608.82879344 16608.82879344}
+2021/01/11 13:26:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:40.785935Z 11914355 3.604881e+06 3.605657e+06 0.22708596 0.175 774.21756946 810.20087846 0 0 3.609136e+06 16609.11879444 16609.11879444}
+2021/01/11 13:26:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:41.3711208Z 11914385 3.604881e+06 3.60781e+06 0.15 0.193999 774.50381811 810.04867878 0 0 3.60781e+06 16609.12879544 16609.12879544}
+2021/01/11 13:26:42 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:41.8912909Z 11914403 3.605745e+06 3.607831e+06 0.198 0.05 774.48481811 809.64867978 0 0 3.60781e+06 16609.12879544 16609.12879544}
+2021/01/11 13:26:42 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:42.5706228Z 11914426 3.604547e+06 3.605844e+06 0.03 0.175 774.48681811 810.08571723 0 0 3.604881e+06 16609.27879544 16609.27879544}
+2021/01/11 13:26:43 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:42.8675183Z 11914462 3.602543e+06 3.605844e+06 0.1139 0.175 772.41883811 810.21579487 0 0 3.596699e+06 16611.55379544 16611.55379544}
+2021/01/11 13:26:43 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:43.6184576Z 11914484 3.605854e+06 3.606868e+06 0.0886 0.03 772.85783811 809.54481487 0 0 3.601918e+06 16611.92879544 16611.92879544}
+2021/01/11 13:26:44 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:44.1963613Z 11914506 3.606872e+06 3.607779e+06 0.252375 0.2706 774.72652349 809.28840528 0 0 3.606868e+06 16611.92545338 16611.92545338}
+2021/01/11 13:26:44 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:44.6593644Z 11914541 3.604478e+06 3.608369e+06 0.202 0.05 773.69885415 808.7572785 0 0 3.60602e+06 16612.44732838 16612.44732838}
+2021/01/11 13:26:45 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:45.3027349Z 11914575 3.603718e+06 3.60444e+06 0.2 0.05260048 772.58103811 809.02801472 0 0 3.604443e+06 16612.47732838 16612.47732838}
+2021/01/11 13:26:46 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:45.9055754Z 11914596 3.603718e+06 3.603719e+06 1.83299703 0.196 774.46703514 809.23141424 0 0 3.603718e+06 16612.68732938 16612.68732938}
+2021/01/11 13:26:46 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:46.2897474Z 11914619 3.603718e+06 3.606853e+06 0.23304907 0.0234 772.96141718 808.90519424 0 0 3.606853e+06 16612.7473361 16612.7473361}
+2021/01/11 13:26:47 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:47.1226518Z 11914647 3.601679e+06 3.606319e+06 0.202 0.175 772.71366811 809.72185885 0 0 3.606853e+06 16613.0473361 16613.0473361}
+2021/01/11 13:26:47 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:47.654739Z 11914662 3.599927e+06 3.604516e+06 0.2 0.193 773.00366811 810.01485885 0 0 3.604516e+06 16613.01229433 16613.01229433}
+2021/01/11 13:26:48 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:48.2899822Z 11914678 3.599928e+06 3.604906e+06 0.204 0.2 773.16766811 812.43065885 0 0 3.606268e+06 16612.45410096 16612.45410096}
+2021/01/11 13:26:48 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:48.7791632Z 11914698 3.600076e+06 3.604906e+06 0.175 0.0482 773.20996811 812.10409424 0 0 3.604906e+06 16611.62459433 16611.62459433}
+2021/01/11 13:26:49 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:49.3857393Z 11914721 3.600221e+06 3.604414e+06 0.192 0.193999 773.04133811 812.90719324 0 0 3.604414e+06 16611.63559533 16611.63559533}
+2021/01/11 13:26:50 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:49.9350255Z 11914752 3.598128e+06 3.603615e+06 0.03 0.3 772.70393811 813.40479324 0 0 3.59993e+06 16612.04759533 16612.04759533}
+2021/01/11 13:26:50 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:50.5627522Z 11914801 3.59993e+06 3.603101e+06 1.555789 0.16 773.60922711 812.14572324 0 0 3.599812e+06 16612.1872047 16612.1872047}
+2021/01/11 13:26:51 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:51.0940427Z 11914827 3.601484e+06 3.601811e+06 0.2 0.202 774.41772711 811.7645166 0 0 3.599812e+06 16612.1872047 16612.1872047}
+2021/01/11 13:26:51 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:51.630544Z 11914860 3.598128e+06 3.60102e+06 0.03 0.2 772.85653811 813.19400137 0 0 3.599932e+06 16614.1894937 16614.1894937}
+2021/01/11 13:26:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:52.1968711Z 11914875 3.599556e+06 3.601019e+06 0.002 0.2697 773.21238437 813.01315174 0 0 3.599932e+06 16614.1894937 16614.1894937}
+2021/01/11 13:26:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:52.7226127Z 11914904 3.599515e+06 3.600206e+06 0.206 0.2 773.93895613 812.53772174 0 0 3.60102e+06 16614.4144937 16614.4144937}
+2021/01/11 13:26:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:53.2842039Z 11914925 3.59813e+06 3.600206e+06 0.2636 0.10567896 773.44485613 812.7214007 0 0 3.600206e+06 16614.6244937 16614.6244937}
+2021/01/11 13:26:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:53.8828634Z 11914955 3.597717e+06 3.599932e+06 0.198 0.5 773.539235 813.0094007 0 0 3.598105e+06 16615.0880937 16615.0880937}
+2021/01/11 13:26:54 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:54.4109255Z 11914974 3.598904e+06 3.600155e+06 0.2 0.06 774.045995 812.1274007 0 0 3.599929e+06 16615.6180937 16615.6180937}
+2021/01/11 13:26:55 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:54.9298068Z 11914990 3.599516e+06 3.600206e+06 0.204 0.10567896 774.903095 812.2361307 0 0 3.600155e+06 16615.6780937 16615.6780937}
+2021/01/11 13:26:55 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:55.4610813Z 11915011 3.598904e+06 3.599517e+06 0.2 0.064 773.04313811 813.26385174 0 0 3.599517e+06 16615.91377266 16615.91377266}
+2021/01/11 13:26:57 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:57.7612045Z 11915016 3.596699e+06 3.599517e+06 0.14617894 0.064 772.90593811 813.00655174 0 0 3.598904e+06 16616.08377266 16616.08377266}
+2021/01/11 13:26:58 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:58.2032267Z 11915053 3.596448e+06 3.598867e+06 0.001 0.2 772.61955917 812.30022184 0 0 3.596699e+06 16616.2039516 16616.2039516}
+2021/01/11 13:26:59 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:58.8705238Z 11915079 3.596205e+06 3.597407e+06 0.03 0.2 772.64575917 811.71000037 0 0 3.598211e+06 16616.23599331 16616.23599331}
+2021/01/11 13:26:59 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:59.365316Z 11915097 3.592801e+06 3.59663e+06 0.194 0.2 772.78975917 813.99200037 0 0 3.598211e+06 16616.23599331 16616.23599331}
+2021/01/11 13:27:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:26:59.9598776Z 11915136 3.59742e+06 3.598861e+06 0.2 0.03 774.22201627 811.27217137 0 0 3.596627e+06 16616.46599331 16616.46599331}
+2021/01/11 13:27:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:00.5483356Z 11915164 3.597421e+06 3.6e+06 0.2618 0.043 775.33280449 810.16187137 0 0 3.594608e+06 16616.76782149 16616.76782149}
+2021/01/11 13:27:01 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:01.3894573Z 11915188 3.598558e+06 3.599999e+06 0.175 0.5 775.15886627 810.3190866 0 0 3.599999e+06 16616.97262149 16616.97262149}
+2021/01/11 13:27:02 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:02.0366899Z 11915217 3.600889e+06 3.60102e+06 0.2 0.03 775.88700917 810.35690455 0 0 3.6e+06 16617.15562149 16617.15562149}
+2021/01/11 13:27:02 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:02.5331019Z 11915235 3.600889e+06 3.603556e+06 0.1 0.148 775.84181542 810.42176388 0 0 3.600889e+06 16617.48756216 16617.48756216}
+2021/01/11 13:27:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:03.2443619Z 11915257 3.60347e+06 3.603556e+06 0.916 0.148 776.96980917 811.60961388 0 0 3.603026e+06 16617.64156216 16617.64156216}
+2021/01/11 13:27:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:03.8270954Z 11915279 3.600806e+06 3.603556e+06 0.2 0.148 777.24775279 808.26686327 0 0 3.60347e+06 16618.55756216 16618.55756216}
+2021/01/11 13:27:04 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:04.3706904Z 11915317 3.601803e+06 3.606268e+06 0.198 0.11 777.01515917 807.30744063 0 0 3.60536e+06 16618.64556316 16618.64556316}
+2021/01/11 13:27:05 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:04.9041909Z 11915341 3.602609e+06 3.606268e+06 0.206 0.11 777.90766917 807.76694063 0 0 3.606176e+06 16618.66956416 16618.66956416}
+2021/01/11 13:27:05 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:05.420785Z 11915357 3.601804e+06 3.606268e+06 0.748 0.06 777.39916917 807.49114063 0 0 3.601804e+06 16619.15956416 16619.15956416}
+2021/01/11 13:27:06 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:06.0080882Z 11915384 3.606271e+06 3.60781e+06 0.2 0.155469 778.44007917 806.96343963 0 0 3.60781e+06 16619.25836516 16619.25836516}
+2021/01/11 13:27:06 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:06.5795604Z 11915418 3.605278e+06 3.60781e+06 0.75 0.155469 777.16357917 807.49586963 0 0 3.605278e+06 16619.61836616 16619.61836616}
+2021/01/11 13:27:07 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:07.1984117Z 11915438 3.605565e+06 3.60781e+06 0.175 9e-06 778.21377917 807.39330994 0 0 3.60781e+06 16619.77382616 16619.77382616}
+2021/01/11 13:27:07 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:07.718139Z 11915465 3.6e+06 3.60781e+06 0.28032 0.22102962 774.95537917 808.63746771 0 0 3.6e+06 16622.66883516 16622.66883516}
+2021/01/11 13:27:08 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:08.3638257Z 11915491 3.604002e+06 3.609524e+06 0.05751476 0.204 775.33367546 808.82386886 0 0 3.6e+06 16622.66883516 16622.66883516}
+2021/01/11 13:27:09 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:08.9460071Z 11915514 3.606345e+06 3.609523e+06 0.175 0.0072 775.80437546 808.90906886 0 0 3.604003e+06 16622.66983516 16622.66983516}
+2021/01/11 13:27:09 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:09.5068901Z 11915540 3.606346e+06 3.609766e+06 1.1392 0.4 768.91055784 807.65906886 0 0 3.609523e+06 16622.98623516 16622.98623516}
+2021/01/11 13:27:10 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:10.0695088Z 11915546 3.606347e+06 3.609766e+06 0.2602 0.4 768.85792784 807.64944886 0 0 3.609523e+06 16622.96323516 16622.96323516}
+2021/01/11 13:27:10 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:10.5698527Z 11915570 3.606349e+06 3.609999e+06 0.03 0.2152 768.68041273 807.24414886 0 0 3.609766e+06 16623.36323516 16623.36323516}
+2021/01/11 13:27:11 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:11.1479548Z 11915597 3.6064e+06 3.609999e+06 0.0042 0.02 769.17441273 807.75224886 0 0 3.6064e+06 16623.42903516 16623.42903516}
+2021/01/11 13:27:11 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:11.7530736Z 11915618 3.606402e+06 3.60781e+06 0.24085 0.088 768.737177 808.29215977 0 0 3.606402e+06 16623.45393516 16623.45393516}
+2021/01/11 13:27:12 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:12.3020675Z 11915632 3.606412e+06 3.60781e+06 0.07 0.088 767.279627 808.34215977 0 0 3.606402e+06 16623.45393516 16623.45393516}
+2021/01/11 13:27:13 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:12.9007733Z 11915647 3.6064e+06 3.60781e+06 0.00235 0.07543 767.193257 807.90998977 0 0 3.606412e+06 16623.51250516 16623.51250516}
+2021/01/11 13:27:13 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:13.4793417Z 11915670 3.606345e+06 3.608543e+06 0.175 0.2578 767.237017 808.10145055 0 0 3.6064e+06 16623.29812516 16623.29812516}
+2021/01/11 13:27:14 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:14.0887016Z 11915697 3.605e+06 3.606297e+06 0.01 0.025 766.63873797 808.09060809 0 0 3.606345e+06 16623.47312516 16623.47312516}
+2021/01/11 13:27:14 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:14.586141Z 11915716 3.605e+06 3.606246e+06 0.01 0.07 766.67876406 808.10950809 0 0 3.606345e+06 16623.44312516 16623.44312516}
+2021/01/11 13:27:15 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:15.1810324Z 11915733 3.604003e+06 3.605559e+06 0.029 0.175 766.91476406 808.75130809 0 0 3.605e+06 16623.45312516 16623.45312516}
+2021/01/11 13:27:15 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:15.520761Z 11915754 3.604003e+06 3.605559e+06 0.029 0.175 766.82686406 808.24585809 0 0 3.605e+06 16622.95312516 16622.95312516}
+2021/01/11 13:27:16 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:16.1786145Z 11915786 3.60401e+06 3.605558e+06 0.071 0.2126 767.02684406 808.58636772 0 0 3.60401e+06 16623.75152516 16623.75152516}
+2021/01/11 13:27:16 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:16.5455348Z 11915800 3.601741e+06 3.604881e+06 0.0062 0.198 766.41776406 807.40620406 0 0 3.60401e+06 16623.82252516 16623.82252516}
+2021/01/11 13:27:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:17.2043311Z 11915831 3.600732e+06 3.604074e+06 0.2619 0.192 767.09746406 808.11457351 0 0 3.601697e+06 16623.88422516 16623.88422516}
+2021/01/11 13:27:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:17.8581096Z 11915865 3.600155e+06 3.602271e+06 0.009 0.206 766.46911406 808.15297351 0 0 3.601697e+06 16623.88422516 16623.88422516}
+2021/01/11 13:27:18 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:18.4097967Z 11915887 3.6e+06 3.601697e+06 0.159 0.5 766.33354406 808.60010351 0 0 3.6e+06 16624.06584516 16624.06584516}
+2021/01/11 13:27:19 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:18.9589728Z 11915915 3.598924e+06 3.600139e+06 0.735 0.2 766.24234406 808.76067351 0 0 3.599812e+06 16624.25584516 16624.25584516}
+2021/01/11 13:27:19 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:19.5115315Z 11915932 3.598924e+06 3.600139e+06 0.63511718 0.2 766.76957309 808.9046435 0 0 3.598924e+06 16624.35572798 16624.35572798}
+2021/01/11 13:27:20 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:20.1236452Z 11915963 3.598e+06 3.598919e+06 0.02 0.37095886 766.80109856 809.46504236 0 0 3.598889e+06 16625.00733793 16625.00733793}
+2021/01/11 13:27:20 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:20.6749054Z 11915989 3.594861e+06 3.596502e+06 0.0104 0.036 766.18879856 808.89641277 0 0 3.59542e+06 16625.63963893 16625.63963893}
+2021/01/11 13:27:21 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:21.1593036Z 11916003 3.594861e+06 3.598e+06 0.0104 0.75 766.19179856 809.99297351 0 0 3.595536e+06 16625.66573893 16625.66573893}
+2021/01/11 13:27:22 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:21.9422661Z 11916046 3.592791e+06 3.5965e+06 0.03 0.2522 767.09233406 810.10457351 0 0 3.59486e+06 16625.85113893 16625.85113893}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:22.4795931Z 11916069 3.59279e+06 3.596497e+06 0.004 0.03 766.85559315 810.07635685 0 0 3.59486e+06 16625.85113893 16625.85113893}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:22.949546Z 11916091 3.59279e+06 3.594861e+06 0.004 1 769.43165486 813.75695685 0 0 3.593484e+06 16625.85513893 16625.85513893}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:23.6642964Z 11916113 3.591281e+06 3.593856e+06 0.175 0.175 769.41038978 813.58775685 0 0 3.59279e+06 16625.86913893 16625.86913893}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:24.2280706Z 11916137 3.591e+06 3.593855e+06 0.0212 0.2522 769.10465406 811.74667457 0 0 3.59279e+06 16625.86913893 16625.86913893}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:24.7188662Z 11916157 3.590162e+06 3.59229e+06 0.02 0.196 768.87945406 813.19376996 0 0 3.591e+06 16625.88533893 16625.88533893}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:25.1720036Z 11916180 3.588888e+06 3.591543e+06 0.004444 0.194 766.60774406 814.22076996 0 0 3.59e+06 16627.09213893 16627.09213893}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:25.9598709Z 11916230 3.583975e+06 3.588888e+06 0.212 0.3 757.32818006 814.27248156 0 0 3.591255e+06 16628.48321524 16628.48321524}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:26.5608324Z 11916265 3.583041e+06 3.587094e+06 0.01 0.196 757.83912097 815.31780752 0 0 3.589925e+06 16628.79341624 16628.79341624}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:27.109134Z 11916304 3.5857e+06 3.585994e+06 0.02 0.175 758.31241712 813.73044478 0 0 3.589925e+06 16628.79341624 16628.79341624}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:27.662553Z 11916338 3.581499e+06 3.582149e+06 0.001 0.35455 758.02397712 814.86342763 0 0 3.582149e+06 16629.18261624 16629.18261624}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:28.1000841Z 11916367 3.58e+06 3.581738e+06 0.1099375 0.198 757.01721756 814.56667983 0 0 3.583908e+06 16629.98567874 16629.98567874}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:28.7625451Z 11916391 3.580001e+06 3.583907e+06 0.75 0.2087 758.07701756 816.06112983 0 0 3.583907e+06 16630.17894874 16630.17894874}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:29.362671Z 11916422 3.583032e+06 3.585325e+06 0.2 0.154 758.45159857 815.96359085 0 0 3.583908e+06 16630.60464874 16630.60464874}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:29.9118712Z 11916450 3.583033e+06 3.585324e+06 0.2307 0.85 760.64331697 817.15046167 0 0 3.585994e+06 16631.04384874 16631.04384874}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:30.3685586Z 11916468 3.580001e+06 3.583555e+06 0.75 0.206 759.15261697 817.41329917 0 0 3.581864e+06 16632.06191124 16632.06191124}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:31.0636304Z 11916500 3.580001e+06 3.585994e+06 0.1080625 0.165 758.53407947 815.15828167 0 0 3.580001e+06 16634.26184974 16634.26184974}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:31.6287175Z 11916535 3.584333e+06 3.589722e+06 0.07 0.05 761.92646147 812.92065622 0 0 3.583556e+06 16634.68144974 16634.68144974}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:32.1768068Z 11916563 3.586114e+06 3.589992e+06 0.192 0.056 759.75728006 812.81570814 0 0 3.584322e+06 16635.05144974 16635.05144974}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:32.7726976Z 11916584 3.586115e+06 3.589991e+06 0.85 1.0388 761.20844756 815.00868063 0 0 3.589994e+06 16635.58844974 16635.58844974}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:33.3120602Z 11916623 3.586335e+06 3.589207e+06 0.192 0.115625 758.61208006 814.78388314 0 0 3.589207e+06 16635.67282474 16635.67282474}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:34.0368776Z 11916653 3.589993e+06 3.591112e+06 0.20600314 0.06 758.66806054 810.90483814 0 0 3.591112e+06 16636.40762474 16636.40762474}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:34.6053999Z 11916696 3.591165e+06 3.592789e+06 0.03652344 0.0253 758.18908944 809.50328814 0 0 3.591112e+06 16638.73962474 16638.73962474}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:35.2796588Z 11916734 3.58793e+06 3.591852e+06 0.2 0.175 758.23528006 811.14142876 0 0 3.591162e+06 16640.15503412 16640.15503412}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:35.801284Z 11916763 3.587718e+06 3.591013e+06 0.05 0.3 758.01558006 811.38342876 0 0 3.591142e+06 16640.33103412 16640.33103412}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:36.5126096Z 11916784 3.58345e+06 3.587552e+06 0.198 0.15 758.31822143 812.91331547 0 0 3.587552e+06 16640.75529132 16640.75529132}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:37.0294286Z 11916812 3.584926e+06 3.587551e+06 0.016 0.0832 758.07258006 813.25628547 0 0 3.587551e+06 16641.08929132 16641.08929132}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:37.7238365Z 11916857 3.58421e+06 3.58571e+06 0.05 0.33867187 757.85328006 812.55447519 0 0 3.581656e+06 16642.09929232 16642.09929232}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:38.2565752Z 11916889 3.584948e+06 3.588616e+06 0.0104 0.078 758.48868006 814.69119765 0 0 3.588616e+06 16643.09929232 16643.09929232}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:38.8551687Z 11916911 3.583449e+06 3.586822e+06 0.03 0.202 758.31828006 814.95985485 0 0 3.584948e+06 16643.10969232 16643.10969232}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:39.3732691Z 11916936 3.585097e+06 3.588074e+06 0.202 0.175 758.80121006 814.29585485 0 0 3.583446e+06 16643.36169232 16643.36169232}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:39.9236794Z 11916954 3.583556e+06 3.587896e+06 0.05 0.3 758.66121006 815.08725485 0 0 3.583446e+06 16643.36169232 16643.36169232}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:40.4598326Z 11916968 3.583556e+06 3.586517e+06 0.05 0.206 768.51711006 815.50255485 0 0 3.583446e+06 16643.36169232 16643.36169232}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:40.9911206Z 11916989 3.583556e+06 3.586517e+06 0.05 0.206 768.37118006 815.15795485 0 0 3.583446e+06 16643.36169232 16643.36169232}
+2021/01/11 13:27:41 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:41.55004Z 11917019 3.582068e+06 3.586103e+06 0.06 0.18593238 768.35918006 806.15668723 0 0 3.586103e+06 16643.65975994 16643.65975994}
+2021/01/11 13:27:42 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:42.0257374Z 11917048 3.582069e+06 3.58514e+06 1.0081 0.198 767.85853788 807.63951137 0 0 3.582065e+06 16643.85538494 16643.85538494}
+2021/01/11 13:27:42 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:42.6161176Z 11917082 3.580715e+06 3.581887e+06 0.06 0.2304 766.88592726 816.28696306 0 0 3.581656e+06 16643.88538494 16643.88538494}
+2021/01/11 13:27:43 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:43.2425588Z 11917108 3.58e+06 3.581885e+06 0.01 0.03 767.11691726 816.80038659 0 0 3.580715e+06 16644.19578494 16644.19578494}
+2021/01/11 13:27:44 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:27:44.8280805Z 11917127 3.580349e+06 3.582065e+06 0.198 0.17258716 768.41361726 816.29188022 0 0 3.582065e+06 16644.52319778 16644.52319778}
+2021/01/11 13:27:45 bitflyer.go:208: read: websocket: close 1006 (abnormal closure): unexpected EOF
+2021/01/11 13:31:44 bitflyer.go:186: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 13:31:45 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:45.5694354Z 11927929 3.621517e+06 3.626752e+06 0.156 0.227 782.49646414 800.18188324 0 0 3.620733e+06 16776.43037488 16776.43037488}
+2021/01/11 13:31:46 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:46.1176107Z 11927951 3.621518e+06 3.626754e+06 0.1121 0.85 782.45496414 799.72588324 0 0 3.620733e+06 16776.28037488 16776.28037488}
+2021/01/11 13:31:46 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:46.748638Z 11927977 3.621518e+06 3.625e+06 0.05 0.01 782.67944889 800.10006141 0 0 3.620733e+06 16776.09881308 16776.09881308}
+2021/01/11 13:31:47 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:47.2979831Z 11928001 3.622153e+06 3.625e+06 0.1775 0.01 782.36775328 799.91766141 0 0 3.620733e+06 16776.15469749 16776.15469749}
+2021/01/11 13:31:47 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:47.8661597Z 11928022 3.622768e+06 3.625082e+06 0.144 0.2237 781.8772731 798.85067693 0 0 3.625e+06 16775.36336749 16775.36336749}
+2021/01/11 13:31:48 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:48.5130649Z 11928046 3.623964e+06 3.625083e+06 0.15 0.02 782.8441731 797.41374201 0 0 3.625082e+06 16772.91968753 16772.91968753}
+2021/01/11 13:31:49 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:49.0925048Z 11928070 3.623965e+06 3.62598e+06 0.2237 0.175 782.82231357 798.04746529 0 0 3.625083e+06 16771.57288961 16771.57288961}
+2021/01/11 13:31:49 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:49.6599525Z 11928090 3.624608e+06 3.626752e+06 0.2219 0.05 781.92330178 797.96845028 0 0 3.623965e+06 16771.58188961 16771.58188961}
+2021/01/11 13:31:50 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:50.1768323Z 11928104 3.624607e+06 3.625082e+06 0.144 0.1 782.37050178 798.56181271 0 0 3.624608e+06 16767.5540138 16767.5540138}
+2021/01/11 13:31:50 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:50.7920642Z 11928116 3.624607e+06 3.626751e+06 0.144 0.2207 782.55080178 797.30751271 0 0 3.626837e+06 16767.28871023 16767.28871023}
+2021/01/11 13:31:51 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:51.4361705Z 11928143 3.625105e+06 3.628842e+06 0.2 0.01 784.79041014 796.01255853 0 0 3.625396e+06 16766.07628603 16766.07628603}
+2021/01/11 13:31:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:51.941212Z 11928176 3.625908e+06 3.628842e+06 0.596 0.01 784.20255596 795.93306403 0 0 3.625908e+06 16764.59174486 16764.59174486}
+2021/01/11 13:31:52 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:52.4470609Z 11928183 3.627111e+06 3.629449e+06 0.156 0.0099 785.16735596 795.4338016 0 0 3.628842e+06 16764.0017948 16764.0017948}
+2021/01/11 13:31:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:53.0062533Z 11928213 3.627722e+06 3.629656e+06 0.2288 0.056 785.29427596 795.63640831 0 0 3.629656e+06 16763.24558525 16763.24558525}
+2021/01/11 13:31:53 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:53.6206762Z 11928235 3.628615e+06 3.63183e+06 0.223 0.1 785.6214931 796.27889831 0 0 3.63e+06 16763.40158525 16763.40158525}
+2021/01/11 13:31:54 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:54.0751736Z 11928249 3.629376e+06 3.63183e+06 0.158 0.1 786.1264931 796.16089831 0 0 3.628615e+06 16763.26658525 16763.26658525}
+2021/01/11 13:31:54 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:54.673707Z 11928272 3.630191e+06 3.631558e+06 0.156 0.175 785.5426931 797.31669831 0 0 3.629377e+06 16763.32699524 16763.32699524}
+2021/01/11 13:31:55 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:55.3324458Z 11928287 3.630191e+06 3.633792e+06 0.156 0.1 784.7961931 796.93975831 0 0 3.631558e+06 16763.50199524 16763.50199524}
+2021/01/11 13:31:56 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:55.9623115Z 11928307 3.630951e+06 3.633792e+06 0.148 0.1 785.2775931 797.71859831 0 0 3.631558e+06 16763.34375524 16763.34375524}
+2021/01/11 13:31:56 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:56.5788568Z 11928335 3.629379e+06 3.631976e+06 0.03 0.196 783.8209931 798.38059831 0 0 3.629376e+06 16763.10394672 16763.10394672}
+2021/01/11 13:31:57 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:57.1282434Z 11928361 3.625909e+06 3.631654e+06 0.8035 0.194 781.8005931 799.56939831 0 0 3.625909e+06 16763.15709672 16763.15709672}
+2021/01/11 13:31:57 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:57.6663147Z 11928386 3.625105e+06 3.629796e+06 0.05 0.25 781.3863731 800.32835831 0 0 3.629796e+06 16763.09609397 16763.09609397}
+2021/01/11 13:31:58 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:58.2157846Z 11928408 3.626055e+06 3.629795e+06 0.75 0.16767187 783.4633731 800.63413018 0 0 3.629795e+06 16763.1474221 16763.1474221}
+2021/01/11 13:31:58 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:58.8161737Z 11928440 3.628223e+06 3.629796e+06 0.2 0.09875 784.2253731 801.40079144 0 0 3.629796e+06 16763.40924152 16763.40924152}
+2021/01/11 13:31:59 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:59.4087248Z 11928461 3.625168e+06 3.628219e+06 0.3 0.03 783.6267831 801.92819144 0 0 3.628223e+06 16763.60924152 16763.60924152}
+2021/01/11 13:32:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:31:59.9930062Z 11928487 3.625171e+06 3.628224e+06 0.03 0.0189 781.9567831 801.77309144 0 0 3.628224e+06 16763.72384152 16763.72384152}
+2021/01/11 13:32:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:00.3727733Z 11928507 3.625168e+06 3.627187e+06 0.03 0.198 780.6121731 801.69149144 0 0 3.625168e+06 16763.66083152 16763.66083152}
+2021/01/11 13:32:01 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:01.0536778Z 11928542 3.622669e+06 3.627186e+06 0.175 0.5 780.6644731 791.78113144 0 0 3.624903e+06 16763.35473632 16763.35473632}
+2021/01/11 13:32:01 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:01.7787923Z 11928579 3.621291e+06 3.625373e+06 0.05 0.206 780.4772061 792.55355375 0 0 3.620733e+06 16763.27732101 16763.27732101}
+2021/01/11 13:32:02 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:02.2980746Z 11928596 3.620733e+06 3.625373e+06 0.020003 0.206 780.6984761 802.09960375 0 0 3.620733e+06 16763.27732101 16763.27732101}
+2021/01/11 13:32:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:02.8745581Z 11928618 3.620733e+06 3.621233e+06 0.020003 0.175 781.0134761 802.55660375 0 0 3.620733e+06 16762.46732101 16762.46732101}
+2021/01/11 13:32:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:03.378191Z 11928644 3.61975e+06 3.622967e+06 0.01 0.2 780.6724731 798.65119375 0 0 3.620733e+06 16763.38732401 16763.38732401}
+2021/01/11 13:32:04 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:04.0068771Z 11928674 3.618406e+06 3.622966e+06 0.004 0.75 780.6373731 797.12069375 0 0 3.618907e+06 16763.62542401 16763.62542401}
+2021/01/11 13:32:04 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:04.6995055Z 11928704 3.616304e+06 3.620422e+06 0.05 0.05 780.3253731 788.55267375 0 0 3.618406e+06 16763.18273651 16763.18273651}
+2021/01/11 13:32:05 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:05.2970662Z 11928738 3.609698e+06 3.620422e+06 0.14352694 0.05 780.40078004 798.85784742 0 0 3.606482e+06 16763.38473651 16763.38473651}
+2021/01/11 13:32:05 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:05.8495663Z 11928775 3.612924e+06 3.620421e+06 0.158 0.58 780.82878004 793.66353511 0 0 3.620421e+06 16763.50573651 16763.50573651}
+2021/01/11 13:32:06 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:06.3533038Z 11928795 3.610937e+06 3.620418e+06 0.2 0.16 781.0130731 794.42467275 0 0 3.620421e+06 16763.38023651 16763.38023651}
+2021/01/11 13:32:07 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:06.9662804Z 11928826 3.610937e+06 3.612297e+06 0.05 0.175 781.3822931 801.50501535 0 0 3.610937e+06 16763.24023651 16763.24023651}
+2021/01/11 13:32:07 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:07.4379208Z 11928854 3.60771e+06 3.612296e+06 0.2 0.2049 779.7232931 801.32261535 0 0 3.609209e+06 16763.44423651 16763.44423651}
+2021/01/11 13:32:08 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:08.0678743Z 11928866 3.606482e+06 3.609209e+06 0.014 0.62086405 779.6723731 802.2585794 0 0 3.60771e+06 16764.56174826 16764.56174826}
+2021/01/11 13:32:08 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:08.6355449Z 11928895 3.604008e+06 3.607947e+06 0.005 0.196 779.7083731 801.24371535 0 0 3.606482e+06 16765.19661231 16765.19661231}
+2021/01/11 13:32:09 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:09.2785617Z 11928920 3.604008e+06 3.606483e+06 0.005 0.175 785.7565431 790.72211535 0 0 3.607947e+06 16765.19801231 16765.19801231}
+2021/01/11 13:32:09 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:09.7975956Z 11928955 3.604008e+06 3.605584e+06 0.005 0.2 776.57206629 798.68161862 0 0 3.6051e+06 16765.29801231 16765.29801231}
+2021/01/11 13:32:10 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:10.3795474Z 11928974 3.602404e+06 3.605583e+06 0.0863 0.85 786.18326629 795.77891862 0 0 3.600799e+06 16765.41990182 16765.41990182}
+2021/01/11 13:32:11 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:10.9923378Z 11928991 3.601751e+06 3.604774e+06 0.078 0.2 786.36101629 804.42627862 0 0 3.600799e+06 16765.34525279 16765.34525279}
+2021/01/11 13:32:11 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:11.531028Z 11929019 3.600799e+06 3.604288e+06 0.09640476 0.2 786.98285124 804.31487862 0 0 3.600799e+06 16765.47084803 16765.47084803}
+2021/01/11 13:32:12 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:12.0022435Z 11929040 3.600597e+06 3.604285e+06 0.051 0.03 786.86144648 803.85888153 0 0 3.600799e+06 16765.38735279 16765.38735279}
+2021/01/11 13:32:12 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:12.5403167Z 11929073 3.600274e+06 3.602403e+06 0.05 0.1 786.06854466 803.91479849 0 0 3.59449e+06 16766.61954957 16766.61954957}
+2021/01/11 13:32:13 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:13.1442654Z 11929100 3.601722e+06 3.602403e+06 0.152 0.1 786.81849466 803.21679849 0 0 3.59449e+06 16766.78954957 16766.78954957}
+2021/01/11 13:32:13 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:13.775164Z 11929116 3.599774e+06 3.602403e+06 0.194 0.1 786.92394466 803.11429849 0 0 3.599774e+06 16766.63897957 16766.63897957}
+2021/01/11 13:32:14 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:14.2935151Z 11929124 3.599774e+06 3.602403e+06 0.194 0.099 787.01994466 802.90959849 0 0 3.602403e+06 16766.33879211 16766.33879211}
+2021/01/11 13:32:15 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:14.9020007Z 11929151 3.599774e+06 3.602016e+06 0.194 0.29 787.39409797 804.23559849 0 0 3.602016e+06 16765.62391711 16765.62391711}
+2021/01/11 13:32:15 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:15.4535311Z 11929158 3.599533e+06 3.602013e+06 0.144 0.03 787.59279797 804.06359849 0 0 3.602016e+06 16765.6162183 16765.6162183}
+2021/01/11 13:32:16 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:15.9445161Z 11929175 3.600846e+06 3.602016e+06 0.04740066 0.1123 789.12749863 803.93294849 0 0 3.600846e+06 16765.89051764 16765.89051764}
+2021/01/11 13:32:16 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:16.5774359Z 11929202 3.602185e+06 3.604288e+06 0.151 0.1 789.00804863 803.67384849 0 0 3.602185e+06 16766.00081764 16766.00081764}
+2021/01/11 13:32:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:17.1580896Z 11929220 3.600846e+06 3.60538e+06 0.04740066 0.85 788.74566863 806.80304849 0 0 3.602185e+06 16766.33601764 16766.33601764}
+2021/01/11 13:32:17 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:17.667181Z 11929243 3.600846e+06 3.604287e+06 0.05 0.3 789.89926797 806.89130849 0 0 3.602185e+06 16766.33601764 16766.33601764}
+2021/01/11 13:32:18 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:18.2571166Z 11929260 3.601126e+06 3.603998e+06 0.158 0.206 789.00726797 807.41530849 0 0 3.602185e+06 16766.23531764 16766.23531764}
+2021/01/11 13:32:19 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:18.9022675Z 11929296 3.600304e+06 3.602485e+06 0.03 0.198 788.30354451 807.56382849 0 0 3.599311e+06 16766.62670679 16766.62670679}
+2021/01/11 13:32:19 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:19.4710601Z 11929309 3.598999e+06 3.599774e+06 0.146 0.48 788.06693366 807.21052849 0 0 3.600304e+06 16766.16290679 16766.16290679}
+2021/01/11 13:32:20 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:19.959637Z 11929337 3.600095e+06 3.602485e+06 0.2 0.198 788.35374366 802.9192803 0 0 3.599774e+06 16766.54291679 16766.54291679}
+2021/01/11 13:32:20 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:20.5527916Z 11929352 3.600095e+06 3.602484e+06 0.042 0.2108 788.09574366 802.7570803 0 0 3.600095e+06 16766.88091679 16766.88091679}
+2021/01/11 13:32:21 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:21.1634506Z 11929371 3.597877e+06 3.601457e+06 0.1738 0.206 788.69354706 804.1549803 0 0 3.593512e+06 16766.95691339 16766.95691339}
+2021/01/11 13:32:21 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:21.7318843Z 11929396 3.597084e+06 3.600978e+06 0.75 0.3 790.55493706 805.8824603 0 0 3.593512e+06 16766.95691339 16766.95691339}
+2021/01/11 13:32:22 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:22.2513268Z 11929418 3.599774e+06 3.599898e+06 0.001 0.195 789.86593706 805.97924187 0 0 3.6e+06 16766.95991339 16766.95991339}
+2021/01/11 13:32:23 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:22.8772619Z 11929451 3.596412e+06 3.599773e+06 0.093 0.2116 789.12383446 806.1330988 0 0 3.596412e+06 16767.37191339 16767.37191339}
+2021/01/11 13:32:23 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:23.4434868Z 11929465 3.597181e+06 3.599774e+06 0.148 0.1 789.44683446 805.6204988 0 0 3.599773e+06 16767.39191339 16767.39191339}
+2021/01/11 13:32:24 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:32:23.9951208Z 11929481 3.596799e+06 3.599199e+06 0.3 0.206 789.30183446 805.0864988 0 0 3.599773e+06 16767.39191339 16767.39191339}
+2021/01/11 13:47:33 bitflyer.go:60: action=doRequest endpoint=https://api.bitflyer.com/v1/ticker
+2021/01/11 13:47:33 bitflyer.go:144: action=DateTime, err=parsing time "2021-01-11T04:47:33.087" as "2006-01-02T15:04:05Z07:00": cannot parse "" as "Z07:00"
+2021/01/11 13:47:33 bitflyer.go:144: action=DateTime, err=parsing time "2021-01-11T04:47:33.087" as "2006-01-02T15:04:05Z07:00": cannot parse "" as "Z07:00"
+2021/01/11 13:53:41 bitflyer.go:195: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 13:53:42 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:42.4858142Z 11975917 3.701704e+06 3.703279e+06 0.2251 0.11419492 844.32405453 804.98758646 0 0 3.701704e+06 17149.77900506 17149.77900506}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:43.0483272Z 11975954 3.704934e+06 3.705101e+06 0.05 0.005 844.21158582 804.02236047 0 0 3.705101e+06 17150.31731139 17150.31731139}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:43.6335278Z 11975976 3.703136e+06 3.705525e+06 0.232 0.73309041 844.15097838 804.22235127 0 0 3.705525e+06 17150.36122098 17150.36122098}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:44.1179602Z 11975992 3.703135e+06 3.705525e+06 0.204 0.49715314 843.91897838 803.80078699 0 0 3.705525e+06 17150.77215825 17150.77215825}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:44.8077687Z 11976009 3.703149e+06 3.705525e+06 0.07 0.49715314 843.89467838 803.81739142 0 0 3.705525e+06 17150.77215825 17150.77215825}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:45.3730641Z 11976019 3.70315e+06 3.705525e+06 0.2157 0.39724415 844.19645872 804.10485502 0 0 3.705525e+06 17150.87206724 17150.87206724}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:45.8979064Z 11976037 3.70315e+06 3.705525e+06 0.2157 0.39724415 844.26508897 803.53583379 0 0 3.705525e+06 17150.87206724 17150.87206724}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:46.447345Z 11976050 3.703978e+06 3.705525e+06 0.1638 0.29823425 844.23518897 803.18568968 0 0 3.703977e+06 17150.98107714 17150.98107714}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:47.092877Z 11976065 3.703135e+06 3.70565e+06 0.204 0.01823425 842.96038897 803.13508994 0 0 3.70565e+06 17151.28107714 17151.28107714}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:47.7504653Z 11976094 3.705525e+06 3.706581e+06 0.01 0.38260243 843.16798897 803.09761444 0 0 3.706581e+06 17151.34550896 17151.34550896}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:48.3066923Z 11976123 3.702293e+06 3.703279e+06 0.198 2.119 841.73548417 805.84078839 0 0 3.703279e+06 17151.42650896 17151.42650896}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:48.8771458Z 11976140 3.703202e+06 3.703279e+06 0.194 2.109 842.92168417 806.8693226 0 0 3.703279e+06 17151.43650896 17151.43650896}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:49.4343276Z 11976152 3.703202e+06 3.703279e+06 0.194 1.08766006 842.94319417 805.86726884 0 0 3.703279e+06 17152.4578489 17152.4578489}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:50.0784813Z 11976165 3.703202e+06 3.703279e+06 0.194 0.01393013 843.11879417 804.76873891 0 0 3.703279e+06 17153.53157883 17153.53157883}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:50.6650648Z 11976183 3.704685e+06 3.705815e+06 0.02106987 0.05 843.15486404 803.98116805 0 0 3.705443e+06 17153.55941035 17153.55941035}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:51.2600889Z 11976199 3.704685e+06 3.706543e+06 0.02106987 0.05 842.95486404 802.74376805 0 0 3.705443e+06 17153.40941035 17153.40941035}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:51.7347241Z 11976211 3.704685e+06 3.706543e+06 0.02106987 0.05 842.41986404 803.18876805 0 0 3.705443e+06 17153.39940935 17153.39940935}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:52.4260401Z 11976217 3.704686e+06 3.706543e+06 0.1695 0.05 842.59326404 803.35676805 0 0 3.705443e+06 17153.39940935 17153.39940935}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:52.8486659Z 11976220 3.704686e+06 3.706543e+06 0.1695 0.029998 842.56926404 803.33676605 0 0 3.706543e+06 17153.41941135 17153.41941135}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:53.4941691Z 11976228 3.704686e+06 3.706543e+06 0.0697 0.029998 842.56946404 802.34876605 0 0 3.704686e+06 17153.51941135 17153.51941135}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:54.0579257Z 11976238 3.704686e+06 3.706581e+06 0.0697 0.15160043 842.56946404 802.04876605 0 0 3.706581e+06 17153.64441135 17153.64441135}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:54.6264514Z 11976247 3.704685e+06 3.706581e+06 0.02106987 0.14169944 842.52976404 802.87576506 0 0 3.706581e+06 17153.65431234 17153.65431234}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:55.173361Z 11976257 3.704686e+06 3.706581e+06 0.1109 0.14169944 843.29583404 802.68886506 0 0 3.706581e+06 17153.65431234 17153.65431234}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:55.757442Z 11976265 3.704686e+06 3.706543e+06 0.1109 0.002 843.26083404 802.69086506 0 0 3.706581e+06 17153.65431234 17153.65431234}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:56.3367812Z 11976281 3.704686e+06 3.706543e+06 0.1099 0.002 843.17738331 803.07820099 0 0 3.704686e+06 17153.65531234 17153.65531234}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:56.8582946Z 11976291 3.704686e+06 3.706581e+06 0.1099 0.13369944 843.17838331 802.89078099 0 0 3.706581e+06 17153.66531234 17153.66531234}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:57.4670856Z 11976310 3.705e+06 3.706581e+06 0.005 0.11379745 843.28595404 799.60281973 0 0 3.706581e+06 17153.50021433 17153.50021433}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:57.9372602Z 11976326 3.706581e+06 3.707564e+06 0.06450255 0.2894 843.37425659 799.52954228 0 0 3.706581e+06 17153.61401178 17153.61401178}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:58.5367143Z 11976355 3.703282e+06 3.704619e+06 0.03 0.16779745 833.13265417 798.99331335 0 0 3.704685e+06 17154.46171058 17154.46171058}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:59.1317366Z 11976385 3.703283e+06 3.705368e+06 0.03 0.06 842.26141897 800.27027434 0 0 3.705368e+06 17154.48171058 17154.48171058}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:53:59.6322735Z 11976401 3.703283e+06 3.705368e+06 0.03 0.06 842.36083897 799.52917434 0 0 3.705368e+06 17154.48171058 17154.48171058}
+2021/01/11 13:54:00 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:54:00.1791791Z 11976412 3.703279e+06 3.705368e+06 0.05 0.11 842.53823897 799.29771033 0 0 3.705368e+06 17154.48171058 17154.48171058}
+2021/01/11 13:54:01 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:54:01.1301443Z 11976450 3.703135e+06 3.705266e+06 0.03 0.05 842.532402 803.19008662 0 0 3.703279e+06 17154.54571198 17154.54571198}
+2021/01/11 13:54:01 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:54:01.7923729Z 11976481 3.701213e+06 3.703102e+06 0.15578125 0.189999 844.37363805 804.21720487 0 0 3.703102e+06 17154.69430547 17154.69430547}
+2021/01/11 13:54:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:54:02.2949275Z 11976506 3.700581e+06 3.703102e+06 0.001 0.189999 843.88625464 803.82140702 0 0 3.70092e+06 17154.87350547 17154.87350547}
+2021/01/11 13:54:03 streamdata.go:17: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T04:54:03.4435088Z 11976546 3.700001e+06 3.703101e+06 0.44032283 0.85 844.05149747 803.4659019 0 0 3.700001e+06 17155.40219344 17155.40219344}
+2021/01/11 13:54:03 bitflyer.go:217: read: websocket: close 1006 (abnormal closure): unexpected EOF
+2021/01/11 15:23:45 bitflyer.go:193: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 15:23:45 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:45.8868241Z 12169659 3.525512e+06 3.529135e+06 0.2106 0.128 821.99137927 812.87765977 0 0 3.528956e+06 18610.77427671 18610.77427671}
+2021/01/11 15:23:46 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:46.4987101Z 12169676 3.525512e+06 3.528628e+06 0.05 0.076 821.85077927 813.03325977 0 0 3.528956e+06 18610.17427671 18610.17427671}
+2021/01/11 15:23:46 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:47.0719933Z 12169690 3.525514e+06 3.529124e+06 0.03 0.07 821.97547927 812.72055977 0 0 3.528956e+06 18610.17427671 18610.17427671}
+2021/01/11 15:23:47 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:47.5976284Z 12169716 3.525514e+06 3.53e+06 0.05 0.07 822.03047927 811.64804977 0 0 3.529124e+06 18610.24427671 18610.24427671}
+2021/01/11 15:23:48 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:48.1607574Z 12169737 3.525514e+06 3.529874e+06 0.05 0.202 821.32518826 812.94404977 0 0 3.525512e+06 18610.33416772 18610.33416772}
+2021/01/11 15:23:48 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:48.6992151Z 12169752 3.529874e+06 3.53e+06 0.0505 0.07 821.37568826 811.59152977 0 0 3.525512e+06 18610.33416772 18610.33416772}
+2021/01/11 15:23:49 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:49.2941483Z 12169780 3.530006e+06 3.531035e+06 0.2 0.175 821.84409826 811.66424977 0 0 3.53e+06 18610.41416672 18610.41416672}
+2021/01/11 15:23:49 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:49.8618014Z 12169798 3.530007e+06 3.532493e+06 0.2048 0.134 822.29729826 811.36584977 0 0 3.532492e+06 18610.42756672 18610.42756672}
+2021/01/11 15:23:50 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:50.4603395Z 12169834 3.532942e+06 3.534169e+06 0.2 0.04 822.85632826 811.28324977 0 0 3.532741e+06 18610.35256672 18610.35256672}
+2021/01/11 15:23:50 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:51.0273918Z 12169853 3.532942e+06 3.534985e+06 0.1950005 0.34 821.79192876 812.01194977 0 0 3.534984e+06 18610.38852622 18610.38852622}
+2021/01/11 15:23:51 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:51.5959883Z 12169863 3.532943e+06 3.534985e+06 0.2031 0.0640125 821.87784126 812.12996227 0 0 3.534985e+06 18610.86451372 18610.86451372}
+2021/01/11 15:23:52 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:52.0983723Z 12169884 3.532741e+06 3.534042e+06 0.0474 0.194 821.55718576 811.38756227 0 0 3.534985e+06 18610.86351372 18610.86351372}
+2021/01/11 15:23:52 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:52.6350749Z 12169908 3.531484e+06 3.53404e+06 0.0064 0.2053 821.28668576 811.17592227 0 0 3.534041e+06 18611.7049731 18611.7049731}
+2021/01/11 15:23:53 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:53.1832243Z 12169928 3.531484e+06 3.533218e+06 0.0064 0.198 821.34968576 810.84462227 0 0 3.534041e+06 18611.7049731 18611.7049731}
+2021/01/11 15:23:53 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:53.7988116Z 12169947 3.530761e+06 3.534985e+06 0.05 0.0640125 821.37328576 809.95862227 0 0 3.534041e+06 18611.7049731 18611.7049731}
+2021/01/11 15:23:54 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:54.4094087Z 12169965 3.530761e+06 3.534985e+06 0.05 0.0520025 821.52128576 810.18161227 0 0 3.534973e+06 18612.2669831 18612.2669831}
+2021/01/11 15:23:54 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:55.0649286Z 12169984 3.530813e+06 3.534875e+06 0.12 0.05 822.30546165 810.93741227 0 0 3.534984e+06 18612.82817721 18612.82817721}
+2021/01/11 15:23:55 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:55.5853263Z 12170004 3.530813e+06 3.533782e+06 0.12 0.092 821.61255576 812.71711227 0 0 3.533831e+06 18612.90817721 18612.90817721}
+2021/01/11 15:23:56 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:56.0085128Z 12170019 3.530813e+06 3.533113e+06 0.07 0.11 821.14725576 812.58511227 0 0 3.533831e+06 18612.90817721 18612.90817721}
+2021/01/11 15:23:56 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:56.6487351Z 12170044 3.530498e+06 3.533113e+06 0.125 0.11 819.52042756 812.53795227 0 0 3.530498e+06 18613.00817721 18613.00817721}
+2021/01/11 15:23:57 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:57.2294349Z 12170059 3.530498e+06 3.533101e+06 0.05 0.07 819.67512756 812.62518036 0 0 3.530498e+06 18613.08317721 18613.08317721}
+2021/01/11 15:23:57 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:57.7686961Z 12170070 3.530498e+06 3.533101e+06 0.05 0.07 819.81341756 812.0924726 0 0 3.530498e+06 18613.08317721 18613.08317721}
+2021/01/11 15:23:58 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:58.3168545Z 12170097 3.530499e+06 3.533101e+06 0.05 0.65276749 818.76711756 812.72920116 0 0 3.533101e+06 18613.15317721 18613.15317721}
+2021/01/11 15:23:58 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:58.7435254Z 12170115 3.5305e+06 3.534856e+06 0.2101 0.112 818.92721756 811.90743367 0 0 3.533101e+06 18613.34717721 18613.34717721}
+2021/01/11 15:23:59 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:23:59.5227077Z 12170134 3.532942e+06 3.534985e+06 0.14 2.5e-06 818.42941756 811.60624367 0 0 3.534985e+06 18613.39917721 18613.39917721}
+2021/01/11 15:24:00 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:00.0418529Z 12170168 3.535126e+06 3.536973e+06 0.2 0.493 819.58732756 811.56343117 0 0 3.535998e+06 18613.52917971 18613.52917971}
+2021/01/11 15:24:00 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:00.7103485Z 12170195 3.535127e+06 3.536972e+06 0.06 0.055 814.46483407 810.87413117 0 0 3.535126e+06 18614.0972722 18614.0972722}
+2021/01/11 15:24:01 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:01.2103336Z 12170218 3.535128e+06 3.537376e+06 0.2124 0.009 814.6391424 811.96278117 0 0 3.535126e+06 18614.0972722 18614.0972722}
+2021/01/11 15:24:01 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:01.9194336Z 12170242 3.533012e+06 3.535077e+06 0.19 0.10385133 813.92243489 812.29848868 0 0 3.535126e+06 18614.0972722 18614.0972722}
+2021/01/11 15:24:02 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:02.5170547Z 12170278 3.532945e+06 3.533987e+06 0.03 0.192 812.79603489 812.70853117 0 0 3.533016e+06 18614.1272722 18614.1272722}
+2021/01/11 15:24:03 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:03.0711528Z 12170295 3.53038e+06 3.535608e+06 0.91056508 0.192 814.31129997 812.31453117 0 0 3.53038e+06 18614.5882722 18614.5882722}
+2021/01/11 15:24:04 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:03.6871471Z 12170325 3.526362e+06 3.530498e+06 0.01 0.053 813.12973489 812.51382117 0 0 3.53e+06 18614.6132722 18614.6132722}
+2021/01/11 15:24:04 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:04.6780387Z 12170367 3.52732e+06 3.532319e+06 0.1 0.204 814.62933489 811.45082117 0 0 3.530498e+06 18614.6652722 18614.6652722}
+2021/01/11 15:24:05 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:05.3368969Z 12170392 3.52732e+06 3.532156e+06 0.05 0.05 813.98795489 811.43302117 0 0 3.530498e+06 18614.6652722 18614.6652722}
+2021/01/11 15:24:05 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:05.8913745Z 12170406 3.527321e+06 3.53e+06 0.03 0.0209 814.06695489 811.61992117 0 0 3.530498e+06 18614.6652722 18614.6652722}
+2021/01/11 15:24:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:06.5044088Z 12170421 3.527586e+06 3.53e+06 0.175 0.0209 813.97695489 812.00813117 0 0 3.530498e+06 18614.6652722 18614.6652722}
+2021/01/11 15:24:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:07.064516Z 12170441 3.527638e+06 3.53e+06 0.09 0.0109 813.43733489 811.79393117 0 0 3.53e+06 18614.6752722 18614.6752722}
+2021/01/11 15:24:07 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:07.6629979Z 12170456 3.527639e+06 3.532156e+06 0.209 0.05 814.24540489 811.64951117 0 0 3.53e+06 18614.6861722 18614.6861722}
+2021/01/11 15:24:08 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:08.2267957Z 12170465 3.530802e+06 3.532319e+06 0.175 0.204 813.62540489 811.56951117 0 0 3.53e+06 18614.6861722 18614.6861722}
+2021/01/11 15:24:08 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:08.7003317Z 12170481 3.530802e+06 3.533834e+06 0.175 0.0196 813.29640489 811.56323117 0 0 3.530803e+06 18614.6911717 18614.6911717}
+2021/01/11 15:24:09 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:09.2796717Z 12170495 3.530802e+06 3.534086e+06 0.175 0.75 813.55940489 811.34563117 0 0 3.530803e+06 18614.6911717 18614.6911717}
+2021/01/11 15:24:09 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:09.8482058Z 12170519 3.528956e+06 3.532468e+06 0.13 0.206 813.58540489 812.14861117 0 0 3.530802e+06 18614.8661717 18614.8661717}
+2021/01/11 15:24:10 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:10.460534Z 12170542 3.53e+06 3.530498e+06 0.004 0.2 813.68540489 812.74603117 0 0 3.528956e+06 18614.9861717 18614.9861717}
+2021/01/11 15:24:11 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:11.1047683Z 12170570 3.52713e+06 3.53e+06 0.05 0.096 813.81333489 812.66013117 0 0 3.53e+06 18615.1901717 18615.1901717}
+2021/01/11 15:24:11 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:11.7344799Z 12170594 3.530011e+06 3.530498e+06 0.092 0.2 814.00883489 812.30203117 0 0 3.53e+06 18615.2861717 18615.2861717}
+2021/01/11 15:24:12 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:12.1433769Z 12170603 3.530079e+06 3.530802e+06 0.01 0.002 814.02683489 812.34612117 0 0 3.530498e+06 18615.4861717 18615.4861717}
+2021/01/11 15:24:12 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:12.7921378Z 12170629 3.527575e+06 3.52999e+06 0.05 0.1 813.27133489 812.58431134 0 0 3.530079e+06 18615.4961717 18615.4961717}
+2021/01/11 15:24:13 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:13.4183492Z 12170649 3.527576e+06 3.52999e+06 0.03 0.1 814.12713489 812.84421134 0 0 3.527575e+06 18615.5111717 18615.5111717}
+2021/01/11 15:24:14 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:14.1273024Z 12170666 3.527261e+06 3.529989e+06 0.04001 0.9 804.48144489 804.10081134 0 0 3.527261e+06 18615.7111617 18615.7111617}
+2021/01/11 15:24:14 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:14.7070678Z 12170690 3.528956e+06 3.529989e+06 0.01 0.7 814.46089489 812.59781134 0 0 3.529989e+06 18615.9111617 18615.9111617}
+2021/01/11 15:24:15 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:15.2399909Z 12170713 3.527312e+06 3.529986e+06 0.09 0.03 812.82809489 812.79451134 0 0 3.528956e+06 18616.1382617 18616.1382617}
+2021/01/11 15:24:16 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:15.8841387Z 12170733 3.525514e+06 3.528817e+06 0.05 0.196 812.47989489 813.31345351 0 0 3.527312e+06 18616.2282617 18616.2282617}
+2021/01/11 15:24:16 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:16.4322655Z 12170753 3.52394e+06 3.528816e+06 0.194 0.2102 811.4059259 813.66288351 0 0 3.527312e+06 18616.2282617 18616.2282617}
+2021/01/11 15:24:17 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:17.0163204Z 12170775 3.523951e+06 3.528038e+06 0.07 0.202 812.2371259 813.08368351 0 0 3.527312e+06 18616.2282617 18616.2282617}
+2021/01/11 15:24:17 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:17.6012617Z 12170795 3.523951e+06 3.528035e+06 0.07 0.03 812.1010659 811.68646334 0 0 3.527312e+06 18616.2282617 18616.2282617}
+2021/01/11 15:24:18 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:18.0941875Z 12170824 3.521e+06 3.523948e+06 0.03 0.02728125 811.6205259 803.31304459 0 0 3.523951e+06 18616.2982617 18616.2982617}
+2021/01/11 15:24:19 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:18.6781023Z 12170853 3.521e+06 3.525496e+06 1.09993996 0.75 812.98846586 813.59756334 0 0 3.521e+06 18616.3282617 18616.3282617}
+2021/01/11 15:24:19 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:19.2261768Z 12170876 3.52394e+06 3.525496e+06 0.2 0.75 812.5264759 813.40007334 0 0 3.525243e+06 18616.3582617 18616.3582617}
+2021/01/11 15:24:19 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:19.7937302Z 12170894 3.523941e+06 3.525496e+06 0.10601 0.75 812.2264859 812.52317334 0 0 3.523938e+06 18616.6582517 18616.6582517}
+2021/01/11 15:24:20 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:20.3587367Z 12170899 3.521001e+06 3.525493e+06 0.2004 0.03 812.3208759 812.42317334 0 0 3.525496e+06 18616.6882517 18616.6882517}
+2021/01/11 15:24:20 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:20.8920009Z 12170923 3.521001e+06 3.528422e+06 1.1004 0.192 813.0369259 810.35866334 0 0 3.52627e+06 18617.4412517 18617.4412517}
+2021/01/11 15:24:21 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:21.4737007Z 12170948 3.522736e+06 3.528155e+06 0.202 0.175 813.0755259 802.20770334 0 0 3.52627e+06 18617.4412517 18617.4412517}
+2021/01/11 15:24:22 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:22.088046Z 12170978 3.524785e+06 3.528155e+06 0.03 0.225 813.8224959 811.0930901 0 0 3.52627e+06 18617.4412517 18617.4412517}
+2021/01/11 15:24:22 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:22.5279664Z 12170993 3.524786e+06 3.527753e+06 0.2016 0.198 813.9765259 811.60492852 0 0 3.524782e+06 18617.5412517 18617.5412517}
+2021/01/11 15:24:23 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:23.1438277Z 12171017 3.524785e+06 3.526391e+06 0.03 0.194 813.7971259 813.14642852 0 0 3.524782e+06 18617.5412517 18617.5412517}
+2021/01/11 15:24:23 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:23.6485365Z 12171041 3.521858e+06 3.52597e+06 0.0042 0.252 812.7237859 813.25188852 0 0 3.524782e+06 18618.2512517 18618.2512517}
+2021/01/11 15:24:24 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:24.2280694Z 12171060 3.521002e+06 3.524341e+06 0.0042 0.2 812.8075859 813.42178852 0 0 3.524782e+06 18618.2512517 18618.2512517}
+2021/01/11 15:24:24 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:24.7485114Z 12171075 3.521002e+06 3.524341e+06 0.0542 0.25 812.9270259 813.31849852 0 0 3.524782e+06 18618.2512517 18618.2512517}
+2021/01/11 15:24:25 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:25.3603952Z 12171111 3.520299e+06 3.52347e+06 0.188 0.202 812.1060459 813.43709852 0 0 3.524782e+06 18618.2512517 18618.2512517}
+2021/01/11 15:24:25 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:25.8858252Z 12171133 3.520034e+06 3.522549e+06 0.0567 0.198 811.7930459 813.33189852 0 0 3.521e+06 18618.3012517 18618.3012517}
+2021/01/11 15:24:26 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:26.4977902Z 12171158 3.519519e+06 3.521e+06 0.0146 0.04840633 811.8741259 814.74359485 0 0 3.520034e+06 18618.5199517 18618.5199517}
+2021/01/11 15:24:27 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:27.1390423Z 12171198 3.521926e+06 3.522114e+06 0.196 0.175 812.5842259 802.84468852 0 0 3.523466e+06 18618.5359517 18618.5359517}
+2021/01/11 15:24:27 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:24:27.7252981Z 12171224 3.521927e+06 3.524739e+06 0.9 0.192 813.0584259 812.51635852 0 0 3.522545e+06 18618.7409517 18618.7409517}
+2021/01/11 15:26:44 bitflyer.go:193: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 15:26:45 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:45.2189247Z 12176388 3.559528e+06 3.560861e+06 0.05 0.2 830.17846504 800.86549166 0 0 3.558788e+06 18667.96485291 18667.96485291}
+2021/01/11 15:26:45 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:45.6512577Z 12176394 3.558787e+06 3.560861e+06 0.5 0.2 830.15846504 800.59009166 0 0 3.558788e+06 18667.96485291 18667.96485291}
+2021/01/11 15:26:46 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:46.3929515Z 12176431 3.558787e+06 3.560566e+06 0.5 0.2 828.89281504 794.76741166 0 0 3.558804e+06 18668.00654874 18668.00654874}
+2021/01/11 15:26:46 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:46.927809Z 12176449 3.556626e+06 3.56053e+06 0.0126 0.175 828.15611504 795.57871166 0 0 3.560565e+06 18668.80654874 18668.80654874}
+2021/01/11 15:26:47 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:47.555347Z 12176478 3.555877e+06 3.559806e+06 0.1 0.05 828.99367504 796.12169166 0 0 3.556626e+06 18668.81914874 18668.81914874}
+2021/01/11 15:26:48 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:48.0791947Z 12176495 3.55492e+06 3.558027e+06 0.1 0.198 828.87251504 796.54969166 0 0 3.555877e+06 18668.91914874 18668.91914874}
+2021/01/11 15:26:48 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:48.5370316Z 12176510 3.552995e+06 3.557378e+06 0.216 0.206 831.21244315 797.51286166 0 0 3.55492e+06 18669.01914874 18669.01914874}
+2021/01/11 15:26:49 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:49.1331389Z 12176555 3.555574e+06 3.557378e+06 0.165 0.204 832.68153415 796.84798303 0 0 3.557378e+06 18669.03114874 18669.03114874}
+2021/01/11 15:26:49 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:49.7917232Z 12176574 3.555575e+06 3.557866e+06 1.1196 0.3 833.17208315 796.62061303 0 0 3.555574e+06 18669.69614874 18669.69614874}
+2021/01/11 15:26:50 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:50.4795454Z 12176605 3.552995e+06 3.556213e+06 0.266 0.198 831.85734315 798.07893009 0 0 3.555575e+06 18670.08074874 18670.08074874}
+2021/01/11 15:26:50 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:51.0286556Z 12176629 3.552713e+06 3.556088e+06 0.0056 0.206 832.89842315 789.80671723 0 0 3.555575e+06 18670.08074874 18670.08074874}
+2021/01/11 15:26:51 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:51.5746299Z 12176651 3.552004e+06 3.556037e+06 0.0082 0.07 833.38332315 788.89601723 0 0 3.552712e+06 18670.56074874 18670.56074874}
+2021/01/11 15:26:52 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:52.2165295Z 12176668 3.552004e+06 3.556034e+06 0.0082 0.03 833.42594315 789.51711723 0 0 3.552712e+06 18670.56074874 18670.56074874}
+2021/01/11 15:26:52 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:52.8089816Z 12176697 3.552705e+06 3.556036e+06 0.198 0.9 833.33574315 800.15317723 0 0 3.552712e+06 18670.56074874 18670.56074874}
+2021/01/11 15:26:53 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:53.3194908Z 12176722 3.552004e+06 3.556033e+06 0.020003 0.03 833.34290615 798.20037723 0 0 3.552004e+06 18670.59074574 18670.59074574}
+2021/01/11 15:26:53 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:53.8093556Z 12176743 3.552004e+06 3.557951e+06 0.020003 0.03 833.15820615 797.28741723 0 0 3.552004e+06 18670.59074574 18670.59074574}
+2021/01/11 15:26:54 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:54.446755Z 12176762 3.552004e+06 3.555217e+06 0.05 0.204 833.17820315 798.18220723 0 0 3.552004e+06 18670.59074574 18670.59074574}
+2021/01/11 15:26:55 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:55.0128927Z 12176778 3.555245e+06 3.556955e+06 0.2 0.03 833.49334315 797.28530723 0 0 3.55221e+06 18670.68074574 18670.68074574}
+2021/01/11 15:26:55 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:55.4796749Z 12176804 3.555517e+06 3.555877e+06 0.175 0.1 833.51244315 797.61381723 0 0 3.55221e+06 18670.68074574 18670.68074574}
+2021/01/11 15:26:56 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:56.1382132Z 12176831 3.555245e+06 3.557293e+06 0.2 0.05 833.40844315 797.88291723 0 0 3.555877e+06 18670.89633418 18670.89633418}
+2021/01/11 15:26:56 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:56.6397617Z 12176842 3.555246e+06 3.557242e+06 0.2292 0.14 833.47064315 797.94653723 0 0 3.555245e+06 18671.09633418 18671.09633418}
+2021/01/11 15:26:57 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:57.2035244Z 12176847 3.555246e+06 3.557242e+06 0.2292 0.14 833.61664315 797.97753723 0 0 3.555245e+06 18671.09633418 18671.09633418}
+2021/01/11 15:26:57 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:57.8014031Z 12176873 3.552864e+06 3.556359e+06 0.202 0.202 833.30734315 798.85063723 0 0 3.552004e+06 18671.56553418 18671.56553418}
+2021/01/11 15:26:58 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:58.3820077Z 12176895 3.552159e+06 3.556301e+06 0.01740869 0.75 833.43199184 800.54013723 0 0 3.552159e+06 18671.65242549 18671.65242549}
+2021/01/11 15:26:58 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:59.0584349Z 12176915 3.552022e+06 3.554523e+06 0.05 0.196 831.87258315 800.69871723 0 0 3.552159e+06 18671.62242549 18671.62242549}
+2021/01/11 15:26:59 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:26:59.6370852Z 12176936 3.552022e+06 3.555321e+06 0.05 0.175 832.11758315 800.08921723 0 0 3.552159e+06 18671.40461299 18671.40461299}
+2021/01/11 15:27:00 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:00.1214703Z 12176969 3.554854e+06 3.556295e+06 0.2 0.03 832.88900814 797.62664723 0 0 3.555321e+06 18671.4673205 18671.4673205}
+2021/01/11 15:27:00 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:00.8406282Z 12176985 3.554855e+06 3.556874e+06 0.2264 0.03 832.82224814 797.52381723 0 0 3.555321e+06 18671.4573205 18671.4573205}
+2021/01/11 15:27:01 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:01.4056302Z 12177005 3.554854e+06 3.556874e+06 0.2 0.03 832.59024814 796.97531723 0 0 3.555321e+06 18671.4573205 18671.4573205}
+2021/01/11 15:27:02 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:01.9729668Z 12177030 3.554854e+06 3.556877e+06 0.05 0.055 832.36036914 795.39533009 0 0 3.554854e+06 18671.6573205 18671.6573205}
+2021/01/11 15:27:02 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:02.5393829Z 12177045 3.555483e+06 3.558177e+06 0.227 0.192 832.56462914 795.65329363 0 0 3.556877e+06 18671.7123205 18671.7123205}
+2021/01/11 15:27:03 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:03.5939902Z 12177064 3.553798e+06 3.556877e+06 0.127 0.001 831.53816914 795.98589363 0 0 3.553798e+06 18672.7023205 18672.7023205}
+2021/01/11 15:27:04 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:04.3140598Z 12177092 3.552823e+06 3.555099e+06 0.0083 0.192 831.31726914 797.17029363 0 0 3.553798e+06 18672.7023205 18672.7023205}
+2021/01/11 15:27:04 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:04.8657379Z 12177120 3.552824e+06 3.554285e+06 0.88680132 0.2 832.58717046 797.37720363 0 0 3.552824e+06 18673.72651918 18673.72651918}
+2021/01/11 15:27:05 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:05.5931923Z 12177153 3.55415e+06 3.556877e+06 0.05 0.001 833.96659046 796.41529363 0 0 3.554285e+06 18673.92651918 18673.92651918}
+2021/01/11 15:27:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:06.1869609Z 12177172 3.555547e+06 3.556877e+06 0.206 0.001 833.40917046 796.23129363 0 0 3.554285e+06 18673.92651918 18673.92651918}
+2021/01/11 15:27:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:06.7095831Z 12177182 3.55506e+06 3.556877e+06 0.2 0.001 833.07317046 796.89049363 0 0 3.554285e+06 18673.92651918 18673.92651918}
+2021/01/11 15:27:07 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:07.3812948Z 12177201 3.55506e+06 3.556e+06 0.2 0.1 833.29182046 797.28679363 0 0 3.554285e+06 18673.92651918 18673.92651918}
+2021/01/11 15:27:07 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:07.9956001Z 12177222 3.554475e+06 3.556e+06 0.05 0.1 832.90892046 797.33999363 0 0 3.554285e+06 18673.92651918 18673.92651918}
+2021/01/11 15:27:08 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:27:08.5461288Z 12177229 3.555e+06 3.556e+06 0.006 0.1 832.90492046 797.42159363 0 0 3.554285e+06 18673.92651918 18673.92651918}
+2021/01/11 15:30:03 bitflyer.go:193: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/11 15:30:04 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:04.8397937Z 12182833 3.552983e+06 3.553976e+06 0.07 0.039999 837.22644468 804.93036172 0 0 3.553976e+06 18715.440786 18715.440786}
+2021/01/11 15:30:05 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:05.3528196Z 12182869 3.554059e+06 3.556379e+06 0.2 0.06 836.95083468 804.21136422 0 0 3.554952e+06 18715.520794 18715.520794}
+2021/01/11 15:30:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:05.8898737Z 12182882 3.55406e+06 3.556379e+06 0.206 0.06 836.98203468 804.20746422 0 0 3.554952e+06 18715.520794 18715.520794}
+2021/01/11 15:30:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:06.5270843Z 12182906 3.554059e+06 3.556379e+06 0.2 9.401e-05 837.20170584 804.34027823 0 0 3.556379e+06 18715.58369999 18715.58369999}
+2021/01/11 15:30:07 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:07.0619459Z 12182937 3.554063e+06 3.556379e+06 0.205 0.05009401 836.53650584 804.44396707 0 0 3.556379e+06 18715.58369999 18715.58369999}
+2021/01/11 15:30:07 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:07.5753183Z 12182958 3.556227e+06 3.557008e+06 2.4 0.1 838.92850584 803.95808106 0 0 3.556379e+06 18715.58369999 18715.58369999}
+2021/01/11 15:30:08 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:08.2101806Z 12182979 3.554864e+06 3.557008e+06 0.2 0.1 836.09051584 803.85512106 0 0 3.556379e+06 18718.04820478 18718.04820478}
+2021/01/11 15:30:10 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:08.8261099Z 12183004 3.554875e+06 3.557007e+06 0.07 0.9 836.44003584 805.35812106 0 0 3.554865e+06 18718.14820478 18718.14820478}
+2021/01/11 15:30:10 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:10.5428778Z 12183006 3.554875e+06 3.557007e+06 0.07 0.9 836.40003584 805.35812106 0 0 3.554865e+06 18718.14820478 18718.14820478}
+2021/01/11 15:30:11 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:11.4175326Z 12183018 3.554876e+06 3.557007e+06 0.1828 0.8 837.26543584 801.83912106 0 0 3.557007e+06 18718.24320478 18718.24320478}
+2021/01/11 15:30:12 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:12.0940991Z 12183029 3.554876e+06 3.557008e+06 0.1828 0.0949995 837.25771584 801.03412056 0 0 3.557008e+06 18718.24820528 18718.24820528}
+2021/01/11 15:30:14 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:12.6639697Z 12183050 3.554887e+06 3.557125e+06 0.2061 0.489989 838.25985584 799.72673293 0 0 3.557125e+06 18718.35321578 18718.35321578}
+2021/01/11 15:30:15 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:14.6998463Z 12183125 3.559345e+06 3.55952e+06 0.041999 0.82228125 839.35088368 797.99370701 0 0 3.55952e+06 18719.00302254 18719.00302254}
+2021/01/11 15:30:16 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:16.0244186Z 12183184 3.557907e+06 3.560441e+06 0.192 0.017 837.91565584 795.21892576 0 0 3.56002e+06 18720.76167298 18720.76167298}
+2021/01/11 15:30:16 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:16.6693183Z 12183222 3.558059e+06 3.561571e+06 0.75 0.2151 838.29475584 796.85228316 0 0 3.561572e+06 18720.88768558 18720.88768558}
+2021/01/11 15:30:17 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:17.3086821Z 12183246 3.558684e+06 3.561572e+06 0.202 0.0799874 838.26515584 796.79958316 0 0 3.561571e+06 18721.00768558 18721.00768558}
+2021/01/11 15:30:17 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:17.8418203Z 12183263 3.558685e+06 3.561571e+06 0.2392 0.22396516 837.59966584 797.07354832 0 0 3.561571e+06 18721.06769158 18721.06769158}
+2021/01/11 15:30:18 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:18.3805009Z 12183276 3.558684e+06 3.561572e+06 0.202 0.1299874 837.41726584 796.87888316 0 0 3.561571e+06 18720.93737576 18720.93737576}
+2021/01/11 15:30:18 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:18.9163779Z 12183285 3.55952e+06 3.561572e+06 0.01 0.1299874 837.53726584 796.92978707 0 0 3.561571e+06 18720.93737576 18720.93737576}
+2021/01/11 15:30:19 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:19.4760171Z 12183305 3.55952e+06 3.561572e+06 0.01 0.0699814 837.87482584 796.86978107 0 0 3.561572e+06 18720.89270176 18720.89270176}
+2021/01/11 15:30:19 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:19.9938791Z 12183325 3.55952e+06 3.562499e+06 0.059 0.2075 837.17502584 796.59229967 0 0 3.561624e+06 18720.93070176 18720.93070176}
+2021/01/11 15:30:20 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:20.5478549Z 12183347 3.559521e+06 3.562382e+06 0.9971 0.175 838.14129584 800.05330083 0 0 3.562823e+06 18721.05060375 18721.05060375}
+2021/01/11 15:30:21 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:21.0842136Z 12183370 3.560287e+06 3.562382e+06 0.192 0.175 838.91679584 799.58102967 0 0 3.562823e+06 18721.05060375 18721.05060375}
+2021/01/11 15:30:21 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:21.6071075Z 12183390 3.561088e+06 3.563e+06 0.202 0.07710652 839.23369584 799.29714819 0 0 3.563e+06 18721.24040523 18721.24040523}
+2021/01/11 15:30:22 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:22.1865149Z 12183413 3.561088e+06 3.563e+06 0.102 6.52e-06 839.04062584 798.72474819 0 0 3.561088e+06 18721.41750523 18721.41750523}
+2021/01/11 15:30:22 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:22.6671988Z 12183439 3.562099e+06 3.563e+06 0.102 6.52e-06 835.31585468 796.33112819 0 0 3.561088e+06 18721.41750523 18721.41750523}
+2021/01/11 15:30:23 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:23.2778721Z 12183459 3.563e+06 3.564e+06 0.499 0.1 839.42748468 796.53888995 0 0 3.563e+06 18721.52751175 18721.52751175}
+2021/01/11 15:30:23 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:23.874058Z 12183477 3.563001e+06 3.564e+06 0.1999 9.001e-05 839.29518468 796.48881064 0 0 3.563e+06 18721.63742174 18721.63742174}
+2021/01/11 15:30:24 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:24.6683692Z 12183491 3.563571e+06 3.564e+06 0.03 9.001e-05 838.23528468 796.38881064 0 0 3.563e+06 18721.63742174 18721.63742174}
+2021/01/11 15:30:25 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:25.0902296Z 12183499 3.563572e+06 3.564e+06 0.1999 9.001e-05 837.46088468 797.23229064 0 0 3.563571e+06 18721.64122174 18721.64122174}
+2021/01/11 15:30:25 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:25.794653Z 12183511 3.563571e+06 3.564285e+06 0.0262 3.911e-05 837.25988468 796.77323974 0 0 3.564285e+06 18722.15027264 18722.15027264}
+2021/01/11 15:30:26 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:26.3518053Z 12183536 3.563e+06 3.564966e+06 0.489 0.9 836.34708468 797.41592957 0 0 3.563571e+06 18722.24647264 18722.24647264}
+2021/01/11 15:30:26 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:26.7981792Z 12183583 3.563675e+06 3.565006e+06 0.096 0.175 836.98205584 795.87785761 0 0 3.567319e+06 18722.75647264 18722.75647264}
+2021/01/11 15:30:27 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:27.3415311Z 12183602 3.564e+06 3.56676e+06 0.5 0.204 837.16808468 796.28066581 0 0 3.56748e+06 18723.10639013 18723.10639013}
+2021/01/11 15:30:27 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:27.9632954Z 12183616 3.564003e+06 3.56676e+06 0.03 0.204 837.24612468 795.64228012 0 0 3.564e+06 18723.11205013 18723.11205013}
+2021/01/11 15:30:28 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:28.5632193Z 12183639 3.564003e+06 3.56676e+06 0.08 0.1399936 835.32642468 796.50159937 0 0 3.56676e+06 18723.17605653 18723.17605653}
+2021/01/11 15:30:29 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:29.0945072Z 12183654 3.564004e+06 3.567297e+06 0.2 0.05 835.72642468 796.43266509 0 0 3.56676e+06 18723.17605653 18723.17605653}
+2021/01/11 15:30:29 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:29.6383035Z 12183667 3.564014e+06 3.567297e+06 0.07 0.05 835.28142468 796.64187486 0 0 3.56676e+06 18723.17605653 18723.17605653}
+2021/01/11 15:30:30 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:30.1070793Z 12183694 3.563e+06 3.564e+06 0.489 0.63505725 834.22255468 798.52543211 0 0 3.564e+06 18724.28251474 18724.28251474}
+2021/01/11 15:30:30 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:30.759769Z 12183714 3.563e+06 3.564e+06 0.19101562 0.53405725 834.4005703 799.46209211 0 0 3.563e+06 18724.68149912 18724.68149912}
+2021/01/11 15:30:31 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:31.4028108Z 12183727 3.563e+06 3.564e+06 0.11705414 0.47005085 834.72526882 799.39808571 0 0 3.564e+06 18724.853427 18724.853427}
+2021/01/11 15:30:31 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:31.9375227Z 12183744 3.563e+06 3.564e+06 0.11705414 8.5e-07 834.86906482 799.05743571 0 0 3.564e+06 18725.323477 18725.323477}
+2021/01/11 15:30:32 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:32.5362399Z 12183755 3.563001e+06 3.566018e+06 1.1013 0.05 836.07036482 798.49443486 0 0 3.567296e+06 18725.82347785 18725.82347785}
+2021/01/11 15:30:32 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:33.0798311Z 12183770 3.563469e+06 3.567293e+06 0.5 0.005 836.72526482 798.51277486 0 0 3.567293e+06 18726.02347785 18726.02347785}
+2021/01/11 15:30:33 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:33.6023757Z 12183797 3.563775e+06 3.56748e+06 0.104 0.46905367 837.69660482 797.3337237 0 0 3.56748e+06 18726.22347785 18726.22347785}
+2021/01/11 15:30:34 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:34.2429787Z 12183822 3.563775e+06 3.564285e+06 0.104 0.21081 836.59340482 797.9865327 0 0 3.564351e+06 18726.32747885 18726.32747885}
+2021/01/11 15:30:34 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:34.7961579Z 12183853 3.563776e+06 3.566924e+06 0.9 0.51669634 837.01760482 797.92959404 0 0 3.566924e+06 18727.04628785 18727.04628785}
+2021/01/11 15:30:35 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:35.3443258Z 12183874 3.564e+06 3.567081e+06 0.24 0.175 838.91901352 797.6585977 0 0 3.566924e+06 18727.04628785 18727.04628785}
+2021/01/11 15:30:35 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:35.8639644Z 12183886 3.564564e+06 3.567081e+06 0.204 0.175 839.29162352 797.8185977 0 0 3.566924e+06 18727.04628785 18727.04628785}
+2021/01/11 15:30:36 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:36.4938714Z 12183902 3.564567e+06 3.56748e+06 0.03 0.46905367 838.37902352 797.3442477 0 0 3.564564e+06 18727.30858785 18727.30858785}
+2021/01/11 15:30:36 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-11T06:30:37.0117005Z 12183933 3.566546e+06 3.56748e+06 0.175 0.46905367 838.10702352 797.8552477 0 0 3.565379e+06 18727.45858785 18727.45858785}
+2021/01/17 02:36:44 bitflyer.go:193: connecting to wss://ws.lightstream.bitflyer.com/json-rpc
+2021/01/17 02:36:45 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:45.1714894Z 8382787 3.838816e+06 3.841377e+06 0.198 0.05 1279.29886082 1061.74351315 0 0 3.837925e+06 8227.28346468 8227.28346468}
+2021/01/17 02:36:45 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:45.7718847Z 8382794 3.838816e+06 3.841376e+06 0.198 0.1789 1279.32886082 1061.82241315 0 0 3.837925e+06 8227.28346468 8227.28346468}
+2021/01/17 02:36:46 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:46.3702834Z 8382813 3.838816e+06 3.841363e+06 0.198 0.03 1278.94426082 1062.32081315 0 0 3.837925e+06 8227.25346468 8227.25346468}
+2021/01/17 02:36:46 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:46.8571342Z 8382821 3.838579e+06 3.841076e+06 0.05 0.192 1278.70346082 1062.66171315 0 0 3.837925e+06 8227.15857169 8227.15857169}
+2021/01/17 02:36:47 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:47.4822014Z 8382835 3.838579e+06 3.841072e+06 0.05 0.1789 1279.02586082 1062.47381315 0 0 3.837925e+06 8227.15857169 8227.15857169}
+2021/01/17 02:36:48 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:48.1905739Z 8382842 3.838579e+06 3.841075e+06 0.05 0.1789 1279.25924082 1063.12381315 0 0 3.837925e+06 8227.15857169 8227.15857169}
+2021/01/17 02:36:48 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:48.7140607Z 8382854 3.838579e+06 3.841074e+06 0.05 0.1789 1278.98454082 1063.48144315 0 0 3.837925e+06 8226.94857169 8226.94857169}
+2021/01/17 02:36:49 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:49.3235912Z 8382865 3.838579e+06 3.841063e+06 0.05 0.07 1279.05195082 1063.00252315 0 0 3.837925e+06 8226.94857169 8226.94857169}
+2021/01/17 02:36:49 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:49.8887497Z 8382878 3.838579e+06 3.840429e+06 0.05 0.175 1279.20195082 1063.04842315 0 0 3.837925e+06 8226.94857169 8226.94857169}
+2021/01/17 02:36:50 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:50.5700028Z 8382886 3.838579e+06 3.841063e+06 0.05 0.07 1279.20195082 1062.69724315 0 0 3.837925e+06 8226.94857169 8226.94857169}
+2021/01/17 02:36:51 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:51.1203201Z 8382901 3.838579e+06 3.841074e+06 0.05 0.05 1278.88745082 1062.92758315 0 0 3.837925e+06 8226.94857169 8226.94857169}
+2021/01/17 02:36:51 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:51.6238659Z 8382908 3.838579e+06 3.841072e+06 0.05 0.03 1278.88745082 1063.11278315 0 0 3.837925e+06 8226.94857169 8226.94857169}
+2021/01/17 02:36:52 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:52.2068089Z 8382919 3.838579e+06 3.84106e+06 0.05 0.07 1278.71245082 1063.22888315 0 0 3.837925e+06 8226.92857169 8226.92857169}
+2021/01/17 02:36:52 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:52.758752Z 8382943 3.838119e+06 3.840192e+06 0.03 0.196 1278.02581543 1063.58344315 0 0 3.837925e+06 8226.92857169 8226.92857169}
+2021/01/17 02:36:53 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:53.2742442Z 8382963 3.837925e+06 3.840191e+06 0.95500749 0.1789 1279.01031543 1063.50104315 0 0 3.837925e+06 8226.92857169 8226.92857169}
+2021/01/17 02:36:53 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:53.9018469Z 8382972 3.837925e+06 3.840188e+06 0.95500749 0.03 1278.48531543 1063.39596315 0 0 3.837925e+06 8226.82857169 8226.82857169}
+2021/01/17 02:36:54 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:54.5800896Z 8382993 3.837925e+06 3.840183e+06 0.95500749 0.45 1278.18126869 1064.06354315 0 0 3.837925e+06 8226.82857169 8226.82857169}
+2021/01/17 02:36:55 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:55.1000742Z 8383002 3.837925e+06 3.84018e+06 0.95500749 0.03 1278.13126869 1063.78464315 0 0 3.837925e+06 8226.82857169 8226.82857169}
+2021/01/17 02:36:55 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:55.7288422Z 8383030 3.837925e+06 3.840171e+06 0.95500749 0.2389 1278.05356869 1063.44430589 0 0 3.837925e+06 8226.82857169 8226.82857169}
+2021/01/17 02:36:56 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:56.3273872Z 8383047 3.837925e+06 3.839605e+06 0.76410749 0.175 1277.96673018 1064.18223739 0 0 3.837925e+06 8227.02947169 8227.02947169}
+2021/01/17 02:36:56 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:56.7830177Z 8383069 3.837925e+06 3.840164e+06 0.76410749 0.03 1277.91266869 1063.41372739 0 0 3.837925e+06 8227.02947169 8227.02947169}
+2021/01/17 02:36:57 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:57.428373Z 8383078 3.837925e+06 3.840171e+06 0.76410749 0.02 1277.96266869 1063.17372739 0 0 3.837925e+06 8227.02947169 8227.02947169}
+2021/01/17 02:36:58 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:58.0234497Z 8383087 3.837925e+06 3.840171e+06 0.76410749 0.02 1277.96266869 1063.55136739 0 0 3.837925e+06 8227.02947169 8227.02947169}
+2021/01/17 02:36:58 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:58.7326661Z 8383096 3.837925e+06 3.840171e+06 0.76410749 0.02 1278.03275869 1063.53036739 0 0 3.837925e+06 8227.02947169 8227.02947169}
+2021/01/17 02:36:59 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:59.1818837Z 8383114 3.837925e+06 3.84017e+06 0.76410749 0.1809 1277.91671373 1063.98156739 0 0 3.837925e+06 8227.02947169 8227.02947169}
+2021/01/17 02:36:59 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:36:59.7781787Z 8383122 3.837925e+06 3.840159e+06 0.76410749 0.1809 1277.91671373 1064.03356739 0 0 3.837925e+06 8227.02947169 8227.02947169}
+2021/01/17 02:37:00 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:00.5194047Z 8383136 3.837925e+06 3.84016e+06 0.76410749 0.07 1277.98781373 1063.91916739 0 0 3.837925e+06 8226.92947169 8226.92947169}
+2021/01/17 02:37:00 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:00.9426202Z 8383141 3.837925e+06 3.840159e+06 0.76410749 0.1809 1276.98781373 1064.45506739 0 0 3.837925e+06 8226.92947169 8226.92947169}
+2021/01/17 02:37:01 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:01.651692Z 8383152 3.837925e+06 3.840156e+06 0.76410749 0.03 1278.03781373 1064.50506739 0 0 3.837925e+06 8226.92947169 8226.92947169}
+2021/01/17 02:37:02 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:02.1992287Z 8383162 3.837925e+06 3.840155e+06 0.76410749 0.03 1278.08781373 1064.02006739 0 0 3.837925e+06 8226.92947169 8226.92947169}
+2021/01/17 02:37:02 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:02.7389654Z 8383170 3.837925e+06 3.840158e+06 0.76410749 0.1809 1278.08781373 1063.92006739 0 0 3.837925e+06 8226.92947169 8226.92947169}
+2021/01/17 02:37:03 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:03.3986676Z 8383182 3.837925e+06 3.840155e+06 0.76410749 0.03 1278.14781373 1063.88266739 0 0 3.837925e+06 8226.52147169 8226.52147169}
+2021/01/17 02:37:03 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:03.8867373Z 8383191 3.837925e+06 3.840143e+06 0.76410749 0.07 1278.14781373 1064.08856739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:04 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:04.5533618Z 8383201 3.837925e+06 3.84014e+06 0.76410749 0.03 1278.17671373 1060.64766739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:05 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:05.2173092Z 8383209 3.837925e+06 3.840139e+06 0.76410749 0.1809 1278.22671373 1060.55656739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:05 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:05.867076Z 8383217 3.837925e+06 3.840135e+06 0.76410749 0.1809 1278.24664373 1060.48656739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:06.437235Z 8383230 3.837925e+06 3.840135e+06 0.76410749 0.1809 1278.29664373 1060.69656739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:06 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:06.8758235Z 8383238 3.837925e+06 3.84012e+06 0.76410749 0.07 1278.27671373 1060.76656739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:07 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:07.5063844Z 8383248 3.837925e+06 3.840117e+06 0.76410749 0.03 1278.32671373 1060.66566739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:08 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:08.0999244Z 8383257 3.837925e+06 3.840117e+06 0.76410749 0.05 1278.33820373 1064.02566739 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:08 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:08.9329404Z 8383272 3.837925e+06 3.840112e+06 0.76410749 0.2109 1278.66320751 1064.41983117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:09 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:09.5136505Z 8383290 3.837925e+06 3.840101e+06 0.76410749 0.07 1278.71320751 1064.64307117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:09 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:10.0148788Z 8383296 3.837925e+06 3.840098e+06 0.76410749 0.03 1278.56320751 1064.69307117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:10 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:10.6809978Z 8383305 3.837925e+06 3.840101e+06 0.76410749 0.12 1278.61320751 1064.48217117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:11 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:11.1553394Z 8383316 3.837925e+06 3.840093e+06 0.76410749 0.03 1278.66320751 1064.67307117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:11 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:11.801286Z 8383327 3.837925e+06 3.840096e+06 0.76410749 0.1809 1278.08320751 1064.63807117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:12 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:12.2892447Z 8383338 3.837925e+06 3.840083e+06 0.76410749 0.07 1278.14320751 1064.78807117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:12 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:12.7748974Z 8383346 3.837925e+06 3.840079e+06 0.76410749 0.1809 1278.14320751 1064.81267117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:13 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:13.3274829Z 8383379 3.837925e+06 3.839399e+06 0.76410749 0.202 1276.31573265 1064.88843117 0 0 3.837925e+06 8226.39647169 8226.39647169}
+2021/01/17 02:37:13 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:13.9395033Z 8383397 3.836267e+06 3.839399e+06 1 0.252 1276.12950701 1064.70753117 0 0 3.837925e+06 8227.16057918 8227.16057918}
+2021/01/17 02:37:14 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:14.4896922Z 8383412 3.836267e+06 3.839193e+06 1 0.1845 1276.23295701 1064.86303117 0 0 3.837925e+06 8227.16057918 8227.16057918}
+2021/01/17 02:37:15 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:15.0379184Z 8383428 3.836267e+06 3.839182e+06 1.05 0.1845 1276.14160701 1064.80443117 0 0 3.837925e+06 8227.16057918 8227.16057918}
+2021/01/17 02:37:15 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:15.5925597Z 8383442 3.837015e+06 3.83918e+06 0.2 0.03 1276.12580323 1064.31793117 0 0 3.837925e+06 8227.16057918 8227.16057918}
+2021/01/17 02:37:16 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:16.127284Z 8383470 3.837015e+06 3.839183e+06 0.25 0.07 1275.83284933 1062.38293117 0 0 3.837925e+06 8227.16057918 8227.16057918}
+2021/01/17 02:37:16 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:16.6454555Z 8383497 3.836894e+06 3.839037e+06 0.175 0.2 1276.36924933 1060.08563117 0 0 3.839685e+06 8227.50147918 8227.50147918}
+2021/01/17 02:37:17 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:17.2249192Z 8383517 3.836895e+06 3.839036e+06 0.75 0.1838 1277.19181933 1060.42433117 0 0 3.839685e+06 8227.50147918 8227.50147918}
+2021/01/17 02:37:17 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:17.8995269Z 8383529 3.836346e+06 3.839036e+06 0.05 0.1838 1275.73183933 1060.31964117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:18 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:18.519113Z 8383539 3.836346e+06 3.839036e+06 0.05 0.1838 1276.53003933 1060.75894117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:19 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:19.0828623Z 8383546 3.836346e+06 3.839036e+06 0.05 0.1838 1276.42939295 1060.75894117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:19 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:19.5429445Z 8383549 3.836346e+06 3.839036e+06 0.05 0.1838 1276.43939295 1061.17294117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:20 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:20.2411982Z 8383555 3.836346e+06 3.839036e+06 0.05 0.1838 1276.43939295 1061.32773117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:21 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:20.9443798Z 8383559 3.836346e+06 3.839036e+06 0.05 0.1838 1276.43939295 1060.44459117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:21 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:21.5909672Z 8383567 3.83627e+06 3.839036e+06 0.03 0.1838 1276.06937295 1060.43759117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:22 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:22.0297088Z 8383572 3.83627e+06 3.839036e+06 0.03 0.05 1276.11937295 1060.12293117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:22 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:22.7717129Z 8383580 3.83627e+06 3.839035e+06 0.03 0.2338 1276.07776295 1060.37671117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:23 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:23.3059959Z 8383585 3.83627e+06 3.839034e+06 0.03 0.1838 1276.11246295 1060.37671117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:23 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:23.9505232Z 8383590 3.83627e+06 3.839034e+06 0.08 0.2338 1276.16246295 1060.30673117 0 0 3.839685e+06 8227.45147918 8227.45147918}
+2021/01/17 02:37:24 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:24.7456089Z 8383596 3.836271e+06 3.839033e+06 0.0601 0.1838 1276.22256295 1063.64673117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:25 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:25.4567553Z 8383604 3.836272e+06 3.839033e+06 0.0599 0.1838 1276.27127295 1060.32613117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:26 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:26.0517513Z 8383607 3.836272e+06 3.839033e+06 0.1099 0.05 1276.32127295 1060.19233117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:26 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:26.5097525Z 8383622 3.836273e+06 3.839194e+06 0.06 0.1838 1276.34076295 1059.52473117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:27 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:27.1539827Z 8383632 3.836324e+06 3.839308e+06 0.07 0.7 1276.21575917 1059.17493117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:27 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:27.6887038Z 8383655 3.837124e+06 3.839988e+06 0.0595 0.194 1277.05881499 1058.18224117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:28 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:28.4446203Z 8383668 3.837125e+06 3.840378e+06 0.27500378 0.7 1277.43271499 1059.05724117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:28 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:28.9146667Z 8383694 3.837982e+06 3.841071e+06 0.194 0.1838 1277.07801121 1058.41793117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:29 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:29.6539775Z 8383712 3.837982e+06 3.841071e+06 0.194 0.1838 1277.07031121 1060.28393117 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:30 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:30.244919Z 8383729 3.837984e+06 3.841071e+06 0.0587 0.1838 1277.34966499 1062.29079967 0 0 3.839685e+06 8227.44697918 8227.44697918}
+2021/01/17 02:37:30 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:30.8241889Z 8383743 3.837985e+06 3.841071e+06 0.03 0.1838 1277.58426499 1064.37548221 0 0 3.839685e+06 8227.21067918 8227.21067918}
+2021/01/17 02:37:31 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:31.4252807Z 8383756 3.837986e+06 3.841071e+06 0.0588 0.1838 1277.70516499 1063.55506221 0 0 3.839685e+06 8227.02795721 8227.02795721}
+2021/01/17 02:37:32 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:32.1164437Z 8383758 3.837986e+06 3.841071e+06 0.1088 0.1838 1277.75516499 1063.39506221 0 0 3.839685e+06 8227.02795721 8227.02795721}
+2021/01/17 02:37:32 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:32.70805Z 8383767 3.837987e+06 3.841071e+06 0.1087 0.1838 1277.75101687 1063.37548221 0 0 3.839685e+06 8226.75295721 8226.75295721}
+2021/01/17 02:37:33 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:33.3591873Z 8383772 3.837988e+06 3.841071e+06 0.0587 0.1838 1277.80505047 1063.55814221 0 0 3.839685e+06 8226.75295721 8226.75295721}
+2021/01/17 02:37:34 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:33.9723065Z 8383783 3.837989e+06 3.841072e+06 0.0587 0.05 1277.82505047 1063.32614221 0 0 3.839685e+06 8226.75295721 8226.75295721}
+2021/01/17 02:37:34 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:34.6154016Z 8383788 3.837989e+06 3.841072e+06 0.0587 0.05 1278.85505047 1063.45814221 0 0 3.839685e+06 8226.75295721 8226.75295721}
+2021/01/17 02:37:35 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:35.2648586Z 8383793 3.837989e+06 3.841072e+06 0.05 0.05 1278.84635047 1063.37764221 0 0 3.839685e+06 8226.75295721 8226.75295721}
+2021/01/17 02:37:35 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:35.8507023Z 8383804 3.837989e+06 3.841071e+06 0.05 0.1838 1277.88400047 1063.35498221 0 0 3.839685e+06 8226.75295721 8226.75295721}
+2021/01/17 02:37:36 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:36.8579088Z 8383816 3.837989e+06 3.841071e+06 0.05 0.1838 1277.90987047 1063.35498221 0 0 3.839685e+06 8226.62807685 8226.62807685}
+2021/01/17 02:37:37 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:37.4764375Z 8383821 3.837989e+06 3.841071e+06 0.05 0.1838 1276.85637047 1063.35498221 0 0 3.839685e+06 8226.34946685 8226.34946685}
+2021/01/17 02:37:38 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:37.9777929Z 8383833 3.837989e+06 3.841071e+06 0.05 0.1838 1276.89687047 1063.10448221 0 0 3.839685e+06 8226.34946685 8226.34946685}
+2021/01/17 02:37:38 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:38.5112016Z 8383843 3.837989e+06 3.841075e+06 0.05 0.1838 1277.58530047 1062.94448221 0 0 3.839685e+06 8226.34946685 8226.34946685}
+2021/01/17 02:37:39 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:39.0750533Z 8383846 3.837989e+06 3.841076e+06 0.05 0.192 1277.58530047 1062.92498221 0 0 3.839685e+06 8226.23051685 8226.23051685}
+2021/01/17 02:37:39 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:39.7172859Z 8383859 3.838003e+06 3.841076e+06 0.5 0.192 1278.59774047 1062.87368221 0 0 3.839685e+06 8226.23051685 8226.23051685}
+2021/01/17 02:37:40 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:40.5526833Z 8383864 3.838006e+06 3.841076e+06 0.08 0.192 1278.67774047 1061.21499967 0 0 3.839685e+06 8226.22681685 8226.22681685}
+2021/01/17 02:37:41 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:41.0226097Z 8383869 3.838006e+06 3.841076e+06 0.08 0.192 1278.67774047 1063.27864878 0 0 3.839685e+06 8226.22681685 8226.22681685}
+2021/01/17 02:37:42 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:42.4709097Z 8383876 3.838006e+06 3.841076e+06 0.08 0.192 1278.64104047 1063.97864878 0 0 3.839685e+06 8226.22681685 8226.22681685}
+2021/01/17 02:37:43 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:43.6330855Z 8383880 3.838006e+06 3.841076e+06 0.08 0.192 1278.64104047 1063.11864878 0 0 3.839685e+06 8226.22581685 8226.22581685}
+2021/01/17 02:37:44 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:44.6871335Z 8383881 3.838006e+06 3.841076e+06 0.08 0.192 1278.54104047 1063.11864878 0 0 3.839685e+06 8226.22481685 8226.22481685}
+2021/01/17 02:37:45 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:45.6367401Z 8383884 3.838006e+06 3.841076e+06 0.08 0.192 1278.54104047 1063.27864878 0 0 3.839685e+06 8226.22481685 8226.22481685}
+2021/01/17 02:37:46 streamdata.go:18: action=StreamIngestionData, {BTC_JPY RUNNING 2021-01-16T17:37:46.2677296Z 8383886 3.838006e+06 3.841076e+06 0.08 0.192 1278.54484047 1063.27864878 0 0 3.839685e+06 8226.22481685 8226.22481685}
